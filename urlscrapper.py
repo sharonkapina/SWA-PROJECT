@@ -3,9 +3,13 @@ from urllib.parse import urlparse
 import requests
 import os
 from datetime import datetime
+from dotenv import load_dotenv
 
-API_KEY = "AIzaSyB3jidLSSfU7GFhHPdas4wMiIe9Z0LT5YA"
-CX = "e42c9e1ec36f4446d"
+load_dotenv()
+
+API_KEY = os.getenv("GOOGLE_API_KEY")
+CX = os.getenv("GOOGLE_CX_ID")
+
 MAX_RESULTS = 30
 
 SDG_KEYWORDS = [
@@ -47,6 +51,10 @@ def is_trusted_link(link, org_name):
     return org_clean in domain
 
 def generate_urls(user_inputs: dict, matched_orgs: list):
+    from datetime import datetime
+
+    TEST_MODE = True  # ✅ Set to False to process all orgs
+
     start_year = int(user_inputs["year"])
     current_year = datetime.now().year
     doc_type = ", ".join(user_inputs["doc_labels"])
@@ -55,10 +63,17 @@ def generate_urls(user_inputs: dict, matched_orgs: list):
     country = ", ".join(user_inputs.get("country", []))
 
     rows = []
+    seen_orgs = set()
+
     print(f"🔍 Generating URLs for {len(matched_orgs)} orgs")
 
     for org in matched_orgs:
         org_name = org["organisation_name"]
+
+        if org_name in seen_orgs:
+            continue  # Skip repeated orgs
+
+        seen_orgs.add(org_name)
 
         for year in range(current_year, start_year - 1, -1):
             for sdg, sdg_desc in zip(sdg_labels, sdg_descriptions):
@@ -78,8 +93,11 @@ def generate_urls(user_inputs: dict, matched_orgs: list):
                         "Flag": "Trusted" if trusted else "Third-party"
                     })
 
+        if TEST_MODE:
+            print("🧪 Test mode active — stopping after first organization.")
+            break
+
     df = pd.DataFrame(rows)
     output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "generated_urls.csv")
     df.to_csv(output_path, index=False)
     print(f"✅ Saved {len(df)} URLs to {output_path}")
-
