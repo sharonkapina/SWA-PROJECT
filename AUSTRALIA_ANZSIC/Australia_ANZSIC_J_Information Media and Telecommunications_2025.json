@@ -1,0 +1,37 @@
+{
+    "country": "Australia",
+    "region": "Australia",
+    "sic_code": "All",
+    "data": [
+        {
+            "organisation_name": "Telstra"
+        },
+        {
+            "organisation_name": "Optus"
+        },
+        {
+            "organisation_name": "SBS (Special Broadcasting Service)"
+        },
+        {
+            "organisation_name": "ABC (Australian Broadcasting Corporation)"
+        },
+        {
+            "organisation_name": "News Corp Australia"
+        },
+        {
+            "organisation_name": "Nine Entertainment Co."
+        },
+        {
+            "organisation_name": "Seven West Media"
+        },
+        {
+            "organisation_name": "Foxtel"
+        },
+        {
+            "organisation_name": "Southern Cross Austereo"
+        },
+        {
+            "organisation_name": "Macquarie Media"
+        }
+    ]
+}

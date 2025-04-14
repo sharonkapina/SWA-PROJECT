@@ -1,0 +1,37 @@
+{
+    "country": "Australia",
+    "region": "Australia",
+    "sic_code": "All",
+    "data": [
+        {
+            "organisation_name": "BHP"
+        },
+        {
+            "organisation_name": "Rio Tinto"
+        },
+        {
+            "organisation_name": "Fortescue"
+        },
+        {
+            "organisation_name": "Orica"
+        },
+        {
+            "organisation_name": "Anglo American Australia"
+        },
+        {
+            "organisation_name": "Calix Limited"
+        },
+        {
+            "organisation_name": "Minerals Council of Australia"
+        },
+        {
+            "organisation_name": "Bravus Mining & Resources"
+        },
+        {
+            "organisation_name": "Veolia Australia and New Zealand"
+        },
+        {
+            "organisation_name": "Sustainable Minerals Institute"
+        }
+    ]
+}
