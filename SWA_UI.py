@@ -22,7 +22,8 @@ year_labels, year_values = get_options("Year")
 doc_labels, doc_values = get_options("Document Type")
 freq_labels, freq_values = get_options("Frequency")
 
-json_dir = "/Users/sharonkapina/Desktop/SWA Project/AUSTRALIA_ANZSIC"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+json_dir = os.path.join(BASE_DIR, "AUSTRALIA_ANZSIC")
 org_data = extract_orgs_from_json(json_dir)
 
 def make_multiselect_with_placeholder(id, label, choices, placeholder):
@@ -67,7 +68,7 @@ def server(input, output, session):
     @render.text
     def error_message():
         if submit_clicked() and missing_fields():
-            return f"⚠️ Please select: {', '.join(missing_fields())}."
+            return f"Please select: {', '.join(missing_fields())}."
         return ""
 
     @output
@@ -113,7 +114,7 @@ def server(input, output, session):
                 "country": input.country(),
                 "industry": input.industry(),
                 "sdg_raw": input.sdg(),
-                "sdg_labels": input.sdg(),  # numeric goals like ['6', '13']
+                "sdg_labels": input.sdg(),  # numeric goals 
                 "sdg_full_labels": [sdg_labels.get(s, s) for s in input.sdg()],  # full names
                 "year": input.year(),
                 "doc_type_raw": input.document_type(),
@@ -143,7 +144,7 @@ def server(input, output, session):
             "Year": user_inputs.get("year", ""),
             "Document Type": ", ".join(user_inputs.get("doc_labels", [])),
             "Frequency": input.Frequency(),
-            "Matched Organizations": "; ".join(user_inputs.get("matched_orgs", []))  # ✅ New column
+            "Matched Organizations": "; ".join(user_inputs.get("matched_orgs", []))  # New column
         }])
         output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "user_input_log.csv")
         if os.path.exists(output_path):
@@ -151,7 +152,7 @@ def server(input, output, session):
         else:
             df.to_csv(output_path, index=False)
 
-        print(f"✅ User input saved to {output_path}")
+        print(f" User input saved to {output_path}")
 
 app = App(app_ui, server)
 

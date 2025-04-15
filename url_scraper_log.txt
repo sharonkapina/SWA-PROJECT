@@ -1,0 +1,117 @@
+
+ Generating URLs for 50 orgs
+
+ Telstra 2025 AU Goal 5. Achieve gender equality and empower all women and girls
+[API] 429 :: Telstra 2025 AU Goal 5. Achieve gender equality and empower all women and girls
+
+ Telstra 2025 AU Goal 5. Achieve gender equality and empower all women and girls
+[API] 429 :: Telstra 2025 AU Goal 5. Achieve gender equality and empower all women and girls
+
+ Telstra 2025 AU Goal 5. Achieve gender equality and empower all women and girls
+[API] 429 :: Telstra 2025 AU Goal 5. Achieve gender equality and empower all women and girls
+
+ Telstra 2025 AU Goal 5. Achieve gender equality and empower all women and girls
+[API] 429 :: Telstra 2025 AU Goal 5. Achieve gender equality and empower all women and girls
+
+ Telstra 2025 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+[API] 200 :: Telstra 2025 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+[API] 429 :: Telstra 2025 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+ Checking link: https://www.telstrainternational.com/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-Sustainability-Report-2023.pdf → Trusted? True
+ Checking link: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-issues-paper_0.pdf → Trusted? False
+ Discarded: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-issues-paper_0.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-Sustainability-Report-2023-Remediated.pdf → Trusted? True
+ Checking link: https://www.sciencedirect.com/science/article/pii/S2773207X24001386 → Trusted? False
+ Discarded: https://www.sciencedirect.com/science/article/pii/S2773207X24001386 → Untrusted domain
+ Checking link: https://infraco.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-Telstra-Bigger-Picture-Sustainability-Report-Remediated.pdf → Trusted? True
+ Checking link: https://www.dfat.gov.au/sites/default/files/sdg-voluntary-national-review.pdf → Trusted? False
+ Discarded: https://www.dfat.gov.au/sites/default/files/sdg-voluntary-national-review.pdf → Untrusted domain
+ Checking link: https://unfccc.int/sites/default/files/resource/Australias_LTS_WEB.pdf → Trusted? False
+ Discarded: https://unfccc.int/sites/default/files/resource/Australias_LTS_WEB.pdf → Untrusted domain
+ Checking link: https://www.itu.int/net4/wsis/prizes/2018/ → Trusted? False
+ Discarded: https://www.itu.int/net4/wsis/prizes/2018/ → Untrusted domain
+ Checking link: https://orca.cardiff.ac.uk/id/eprint/143750/1/1634569485915_2006101207.pdf → Trusted? False
+ Discarded: https://orca.cardiff.ac.uk/id/eprint/143750/1/1634569485915_2006101207.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra_In-focus_SDGs_2023_Remediated.pdf → Trusted? True
+
+ Telstra 2025 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+[API] 429 :: Telstra 2025 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+
+ Telstra 2025 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+[API] 429 :: Telstra 2025 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+
+ Telstra 2025 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+[API] 429 :: Telstra 2025 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+
+ Telstra 2025 AU Goal 12. Ensure sustainable consumption and production patterns
+[API] 429 :: Telstra 2025 AU Goal 12. Ensure sustainable consumption and production patterns
+
+ Telstra 2025 AU Goal 12. Ensure sustainable consumption and production patterns
+[API] 429 :: Telstra 2025 AU Goal 12. Ensure sustainable consumption and production patterns
+
+ Telstra 2025 AU Goal 12. Ensure sustainable consumption and production patterns
+[API] 429 :: Telstra 2025 AU Goal 12. Ensure sustainable consumption and production patterns
+
+ Telstra 2025 AU Goal 12. Ensure sustainable consumption and production patterns
+[API] 429 :: Telstra 2025 AU Goal 12. Ensure sustainable consumption and production patterns
+
+ Telstra 2025 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+[API] 429 :: Telstra 2025 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+ Telstra 2025 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+[API] 429 :: Telstra 2025 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+ Telstra 2025 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+[API] 429 :: Telstra 2025 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+ Telstra 2025 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+[API] 429 :: Telstra 2025 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+ Telstra 2024 AU Goal 5. Achieve gender equality and empower all women and girls
+[API] 429 :: Telstra 2024 AU Goal 5. Achieve gender equality and empower all women and girls
+
+ Telstra 2024 AU Goal 5. Achieve gender equality and empower all women and girls
+[API] 429 :: Telstra 2024 AU Goal 5. Achieve gender equality and empower all women and girls
+
+ Telstra 2024 AU Goal 5. Achieve gender equality and empower all women and girls
+[API] 429 :: Telstra 2024 AU Goal 5. Achieve gender equality and empower all women and girls
+
+ Telstra 2024 AU Goal 5. Achieve gender equality and empower all women and girls
+[API] 429 :: Telstra 2024 AU Goal 5. Achieve gender equality and empower all women and girls
+
+ Telstra 2024 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+[API] 429 :: Telstra 2024 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+
+ Telstra 2024 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+[API] 429 :: Telstra 2024 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+
+ Telstra 2024 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+[API] 429 :: Telstra 2024 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+
+ Telstra 2024 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+[API] 429 :: Telstra 2024 AU Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+
+ Telstra 2024 AU Goal 12. Ensure sustainable consumption and production patterns
+[API] 429 :: Telstra 2024 AU Goal 12. Ensure sustainable consumption and production patterns
+
+ Telstra 2024 AU Goal 12. Ensure sustainable consumption and production patterns
+[API] 429 :: Telstra 2024 AU Goal 12. Ensure sustainable consumption and production patterns
+
+ Telstra 2024 AU Goal 12. Ensure sustainable consumption and production patterns
+[API] 429 :: Telstra 2024 AU Goal 12. Ensure sustainable consumption and production patterns
+
+ Telstra 2024 AU Goal 12. Ensure sustainable consumption and production patterns
+[API] 429 :: Telstra 2024 AU Goal 12. Ensure sustainable consumption and production patterns
+
+ Telstra 2024 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+[API] 429 :: Telstra 2024 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+ Telstra 2024 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+[API] 429 :: Telstra 2024 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+ Telstra 2024 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+[API] 429 :: Telstra 2024 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+ Telstra 2024 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+[API] 429 :: Telstra 2024 AU Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+ Saved 4 URLs to /Users/sharonkapina/Desktop/SWA_WORKING PROJECT/generated_urls.csv

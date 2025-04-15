@@ -32,7 +32,7 @@ def extract_orgs_from_json(json_dir):
                                 "industry": industry
                             })
             except Exception as e:
-                print(f"⚠️ Skipping {file}: {e}")
+                print(f" Skipping {file}: {e}")
 
     return org_data
 

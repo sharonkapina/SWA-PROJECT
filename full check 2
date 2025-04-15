@@ -3,7 +3,7 @@ from urllib.parse import urlparse
 import requests
 import os
 from datetime import datetime
-
+from pathlib import Path
 
 API_KEY = os.getenv("GOOGLE_API_KEY")
 CX = os.getenv("GOOGLE_CX_ID")
@@ -13,12 +13,19 @@ SDG_KEYWORDS = [
     "annual report", "sustainability report", "ESG report", "corporate responsibility"
 ]
 
+LOG_PATH = Path(__file__).parent / "url_scraper_log.txt"
+
+def log(message):
+    with open(LOG_PATH, "a") as f:
+        f.write(message + "\n")
+    print(message)
+
 def google_search(query, max_results=30):
     results = []
     for start in range(1, max_results, 10):
         url = f'https://www.googleapis.com/customsearch/v1?key={API_KEY}&cx={CX}&q={query}&start={start}'
         response = requests.get(url)
-        print(f"[API] {response.status_code} :: {query}")
+        log(f"[API] {response.status_code} :: {query}")
         try:
             data = response.json()
             if "items" in data:
@@ -26,7 +33,7 @@ def google_search(query, max_results=30):
             if len(data.get("items", [])) < 10:
                 break
         except Exception as e:
-            print("Failed to parse JSON:", e)
+            log(f"Failed to parse JSON: {e}")
             break
     return results
 
@@ -42,8 +49,17 @@ def detect_file_type(url):
 
 def is_trusted_link(link, org_name):
     domain = urlparse(link).netloc.lower()
-    org = org_name.lower().replace(" ", "").replace("&", "and").replace("(", "").replace(")", "")
-    return org in domain or any(word in domain for word in org.split())
+    org_clean = org_name.lower().replace(" ", "").replace("&", "and").replace("(", "").replace(")", "")
+    
+    # Strong match: full name (no spaces)
+    if org_clean in domain:
+        return True
+    
+    # Backup: at least 2 parts of the name are present
+    keywords = org_name.lower().split()
+    match_count = sum(1 for word in keywords if word in domain)
+    return match_count >= 2
+
 
 def generate_urls(user_inputs: dict, matched_orgs: list):
     start_year = int(user_inputs["year"])
@@ -54,9 +70,8 @@ def generate_urls(user_inputs: dict, matched_orgs: list):
     country = ", ".join(user_inputs.get("country", []))
 
     rows = []
-    print(f"\n🔍 Generating URLs for {len(matched_orgs)} orgs")
+    log(f"\n Generating URLs for {len(matched_orgs)} orgs")
 
-    #  Limit to only 1 org
     for i, org in enumerate(matched_orgs):
         if i > 0:
             break
@@ -65,30 +80,28 @@ def generate_urls(user_inputs: dict, matched_orgs: list):
 
         for year in range(current_year, start_year - 1, -1):
             for sdg, sdg_desc in zip(sdg_labels, sdg_descriptions):
-                keyword_string = " ".join(SDG_KEYWORDS)
-                query = f"{org_name}{SDG_KEYWORDS}{year} {country} {sdg_desc}"
-                print(f"\n🔎 {query}")
-                links = google_search(query)
+                for keyword in SDG_KEYWORDS:
+                    query = f"{org_name} {keyword} {year} {country} {sdg_desc}"
+                    log(f"\n {query}")
+                    links = google_search(query)
 
-                for link in set(links):
-                    file_type = detect_file_type(link)
-                    trusted = is_trusted_link(link, org_name)
-                    print(f"🧪 Checking link: {link} → Trusted? {trusted}")
+                    for link in set(links):
+                        file_type = detect_file_type(link)
+                        trusted = is_trusted_link(link, org_name)
+                        log(f" Checking link: {link} → Trusted? {trusted}")
 
-                    if trusted:
-                        rows.append({
-                            "Organization": org_name,
-                            "Year": year,
-                            "URL": link,
-                            "File Type": file_type,
-                            "Flag": "Trusted"
-                        })
-                    else:
-                        print(f" Discarded: {link} → Untrusted domain")
+                        if trusted:
+                            rows.append({
+                                "Organization": org_name,
+                                "Year": year,
+                                "URL": link,
+                                "File Type": file_type,
+                                "Flag": "Trusted"
+                            })
+                        else:
+                            log(f" Discarded: {link} → Untrusted domain")
 
     df = pd.DataFrame(rows)
     output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "generated_urls.csv")
     df.to_csv(output_path, index=False)
-    print(f"\nSaved {len(df)} URLs to {output_path}")
-
-
+    log(f"\n Saved {len(df)} URLs to {output_path}")
