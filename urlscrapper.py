@@ -7,11 +7,8 @@ from pathlib import Path
 
 API_KEY = os.getenv("GOOGLE_API_KEY")
 CX = os.getenv("GOOGLE_CX_ID")
-MAX_RESULTS = 20
 
-SDG_KEYWORDS = [
-    "annual report", "sustainability report", "ESG report", "corporate responsibility"
-]
+MAX_RESULTS = 20
 
 LOG_PATH = Path(__file__).parent / "url_scraper_log.txt"
 
@@ -47,7 +44,10 @@ def detect_file_type(url):
         return "HTML"
     return "Other"
 
+
+
 def is_trusted_link(link, org_name):
+
     domain = urlparse(link).netloc.lower()
     org_clean = org_name.lower().replace(" ", "").replace("&", "and").replace("(", "").replace(")", "")
     if org_clean in domain:
@@ -69,37 +69,39 @@ def generate_urls(user_inputs: dict, matched_orgs: list):
     log(f"\n Generating URLs for {len(matched_orgs)} orgs")
 
     for i, org in enumerate(matched_orgs):
-        if i > 0:
+        if i > 1:
             break
 
         org_name = org["organisation_name"]
 
         for year in range(current_year, start_year - 1, -1):
             for sdg, sdg_desc in zip(sdg_labels, sdg_descriptions):
-                for keyword in SDG_KEYWORDS:
-                    query = f"{org_name} {year} {country} {sdg_desc}"
-                    log(f"\n {query}")
-                    links = google_search(query)
 
-                    for link in set(links):
-                        if link in seen_links:
-                            continue
-                        seen_links.add(link)
+    
+                
+                query = f"{org_name} sustainability ESG report {year} site:{org_name}.com.au OR filetype:html OR filetype:pdf"
+                log(f"\n {query}")
+                links = google_search(query)
 
-                        file_type = detect_file_type(link)
-                        trusted = is_trusted_link(link, org_name)
-                        log(f" Checking link: {link} → Trusted? {trusted}")
+                for link in set(links):
+                    if link in seen_links:
+                        continue
+                    seen_links.add(link)
 
-                        if trusted:
-                            rows.append({
-                                "Organization": org_name,
-                                "Year": year,
-                                "URL": link,
-                                "File Type": file_type,
-                                "Flag": "Trusted"
-                            })
-                        else:
-                            log(f" Discarded: {link} → Untrusted domain")
+                    file_type = detect_file_type(link)
+                    trusted = is_trusted_link(link, org_name)
+                    log(f" Checking link: {link} → Trusted? {trusted}")
+
+                    if trusted:
+                        rows.append({
+                            "Organization": org_name,
+                            "Year": year,
+                            "URL": link,
+                            "File Type": file_type,
+                            "Flag": "Trusted"
+                        })
+                    else:
+                        log(f" Discarded: {link} → Untrusted domain")
 
     df = pd.DataFrame(rows)
     output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "generated_urls.csv")

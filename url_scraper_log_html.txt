@@ -1,0 +1,1452 @@
+
+ Generating URLs for 40 orgs
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 5. Achieve gender equality and empower all women and girls 2025 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 5. Achieve gender equality and empower all women and girls 2025 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 5. Achieve gender equality and empower all women and girls 2025 AU filetype:html
+ Checking link: https://www.csiro.au/-/media/About/AnnualReport/Images/2021-2022/22-00188_CORP_REPORT_AnnualReport2021-22_221018.html → Trusted? False
+ Discarded: https://www.csiro.au/-/media/About/AnnualReport/Images/2021-2022/22-00188_CORP_REPORT_AnnualReport2021-22_221018.html → Untrusted domain
+ Checking link: https://www.listcorp.com/asx/hls/healius-limited/news/2024-healius-annual-report-3086577.html → Trusted? False
+ Discarded: https://www.listcorp.com/asx/hls/healius-limited/news/2024-healius-annual-report-3086577.html → Untrusted domain
+ Checking link: https://dokumen.pub/jacaranda-key-concepts-in-vce-business-management-units-1-amp-2-seventh-edition-7nbsped-9781119884620.html → Trusted? False
+ Discarded: https://dokumen.pub/jacaranda-key-concepts-in-vce-business-management-units-1-amp-2-seventh-edition-7nbsped-9781119884620.html → Untrusted domain
+ Checking link: https://dokumen.pub/handbook-of-big-data-and-analytics-in-accounting-and-auditing-9789811944598-9789811944604-9811944598.html → Trusted? False
+ Discarded: https://dokumen.pub/handbook-of-big-data-and-analytics-in-accounting-and-auditing-9789811944598-9789811944604-9811944598.html → Untrusted domain
+ Checking link: https://www.acronymattic.com/Bar-Hbr-Bankshares-(BHB).html → Trusted? False
+ Discarded: https://www.acronymattic.com/Bar-Hbr-Bankshares-(BHB).html → Untrusted domain
+ Checking link: https://www.listcorp.com/asx/jdo/judo-capital-holdings-limited/news/judo-fy24-annual-report-3070819.html → Trusted? False
+ Discarded: https://www.listcorp.com/asx/jdo/judo-capital-holdings-limited/news/judo-fy24-annual-report-3070819.html → Untrusted domain
+ Checking link: https://www.aicd.com.au/courses-and-programs/all-programs/chairs-mentoring-program/meet-the-mentees-of-the-chairs-mentoring-program-2025.html → Trusted? False
+ Discarded: https://www.aicd.com.au/courses-and-programs/all-programs/chairs-mentoring-program/meet-the-mentees-of-the-chairs-mentoring-program-2025.html → Untrusted domain
+ Checking link: https://dokumen.pub/environmental-and-planning-law-in-new-south-wales-4nbsped-1760020540-9781760020545.html → Trusted? False
+ Discarded: https://dokumen.pub/environmental-and-planning-law-in-new-south-wales-4nbsped-1760020540-9781760020545.html → Untrusted domain
+ Checking link: https://dokumen.pub/strategic-leadership-for-business-value-creation-principles-and-case-studies-9811594295-9789811594298.html → Trusted? False
+ Discarded: https://dokumen.pub/strategic-leadership-for-business-value-creation-principles-and-case-studies-9811594295-9789811594298.html → Untrusted domain
+ Checking link: https://membership.acs.org.au/member-insight.html → Trusted? False
+ Discarded: https://membership.acs.org.au/member-insight.html → Untrusted domain
+ Checking link: http://csr-reporting.blogspot.com/2020/07/120-sustainability-reporting-nuggets.html → Trusted? False
+ Discarded: http://csr-reporting.blogspot.com/2020/07/120-sustainability-reporting-nuggets.html → Untrusted domain
+ Checking link: https://www.theassignmenthelpline.com/research_management.html → Trusted? False
+ Discarded: https://www.theassignmenthelpline.com/research_management.html → Untrusted domain
+ Checking link: https://www.commbank.com.au/newsroom.html → Trusted? False
+ Discarded: https://www.commbank.com.au/newsroom.html → Untrusted domain
+ Checking link: https://dokumen.pub/the-sustainble-mba-a-business-guide-to-sustainability-2nd-ed-9781118760635-1118760638.html → Trusted? False
+ Discarded: https://dokumen.pub/the-sustainble-mba-a-business-guide-to-sustainability-2nd-ed-9781118760635-1118760638.html → Untrusted domain
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2025 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2025 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2025 AU filetype:html
+ Checking link: https://pdfcoffee.com/the-invincible-company-5-pdf-free.html → Trusted? False
+ Discarded: https://pdfcoffee.com/the-invincible-company-5-pdf-free.html → Untrusted domain
+ Checking link: https://www.eizoglobal.com/products/flexscan/ev3895/index.html → Trusted? False
+ Discarded: https://www.eizoglobal.com/products/flexscan/ev3895/index.html → Untrusted domain
+ Checking link: https://www.listcorp.com/asx/pdn/paladin-energy/news/2024-annual-report-to-shareholders-3076801.html → Trusted? False
+ Discarded: https://www.listcorp.com/asx/pdn/paladin-energy/news/2024-annual-report-to-shareholders-3076801.html → Untrusted domain
+ Checking link: https://www.dlapiperintelligence.com/corporateppa/countries/index.html → Trusted? False
+ Discarded: https://www.dlapiperintelligence.com/corporateppa/countries/index.html → Untrusted domain
+ Checking link: https://www.gemcapital.com.au/blog/investment-advice.html → Trusted? False
+ Discarded: https://www.gemcapital.com.au/blog/investment-advice.html → Untrusted domain
+ Checking link: https://www.idcnova.com/html/1/59/153/index.html → Trusted? False
+ Discarded: https://www.idcnova.com/html/1/59/153/index.html → Untrusted domain
+ Checking link: https://comms.industry.gov.au/link/id/zzzz63c89bc352449995Pzzzz6322751d2bc8c917/page.html → Trusted? False
+ Discarded: https://comms.industry.gov.au/link/id/zzzz63c89bc352449995Pzzzz6322751d2bc8c917/page.html → Untrusted domain
+ Checking link: https://www.commbank.com.au/business/brighter-perspectives.html → Trusted? False
+ Discarded: https://www.commbank.com.au/business/brighter-perspectives.html → Untrusted domain
+ Checking link: https://www.goodreturns.in/company/infosys/director-report.html → Trusted? False
+ Discarded: https://www.goodreturns.in/company/infosys/director-report.html → Untrusted domain
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU filetype:html
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 5. Achieve gender equality and empower all women and girls 2024 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 5. Achieve gender equality and empower all women and girls 2024 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 5. Achieve gender equality and empower all women and girls 2024 AU filetype:html
+ Checking link: https://aisel.aisnet.org/2024.3.html → Trusted? False
+ Discarded: https://aisel.aisnet.org/2024.3.html → Untrusted domain
+ Checking link: https://www.dailymail.co.uk/home/sitemaparchive/day_20220727.html → Trusted? False
+ Discarded: https://www.dailymail.co.uk/home/sitemaparchive/day_20220727.html → Untrusted domain
+ Checking link: https://vuir.vu.edu.au/view/type/conference=5Fitem.html → Trusted? False
+ Discarded: https://vuir.vu.edu.au/view/type/conference=5Fitem.html → Untrusted domain
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2024 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2024 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2024 AU filetype:html
+ Checking link: https://www.listcorp.com/asx/dbf/duxton-farms-ltd/news/annual-report-to-shareholders-3076874.html → Trusted? False
+ Discarded: https://www.listcorp.com/asx/dbf/duxton-farms-ltd/news/annual-report-to-shareholders-3076874.html → Untrusted domain
+ Checking link: https://www.listcorp.com/asx/hli/helia-group-limited/news/2023-annual-report-2999066.html → Trusted? False
+ Discarded: https://www.listcorp.com/asx/hli/helia-group-limited/news/2023-annual-report-2999066.html → Untrusted domain
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU filetype:html
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU filetype:html
+
+ Saved 0 URLs to /Users/sharonkapina/Desktop/SWA_WORKING PROJECT/generated_urls_html.csv
+
+ Generating URLs for 50 orgs
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU filetype:*
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU filetype:*
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU filetype:*
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU filetype:*
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2025 AU filetype:*
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2025 AU filetype:*
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU filetype:*
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU filetype:*
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU filetype:*
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU filetype:*
+
+ Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2024 AU filetype:*
+[API] 200 :: Telstra annual report sustainability ESG  corporate responsibility Goal 12. Ensure sustainable consumption and production patterns 2024 AU filetype:*
+
+ Saved 0 URLs to /Users/sharonkapina/Desktop/SWA_WORKING PROJECT/generated_urls_html.csv
+
+ Generating URLs for 50 orgs
+
+ Telstra annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Telstra annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Telstra annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Telstra annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+ Checking link: https://www.anz.com/content/dam/anzcom/shareholder/ANZ-2020-ESG-Supplement.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1106b11c0>
+
+ Generating URLs for 20 orgs
+
+ Visy Industries annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Visy Industries annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Visy Industries annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Visy Industries annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+ Checking link: https://www.goodman.com/-/media/project/goodman/global/files/sustainability/reports/gmg_sustainbility_report_2020_final.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://a.storyblok.com/f/171317/x/dbd7782ba8/2024-twe-sustainability-report.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://investors.vulcan.co/FormBuilder/_Resource/_module/rjKWVvsCPUefPxewGw0yrw/file/VSL_Annual_Report_2024.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/S/ASX_SXY_2021.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://senexenergy.com.au/news/2022-sustainability-report/ → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://www.industry.gov.au/sites/default/files/2024-08/senate-order-13-2023-24-financial-year.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://www.daf.qld.gov.au/__data/assets/file/0011/1928882/daf-annual-report-2023-24-without-financials.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://focusnetwork.co/ohsleadersnz.com/ → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://au.linkedin.com/in/tierry-lauren-50673720 → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://www.sclaa.com.au/our-partners/ → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://scc.listedcompany.com/misc/one-report/2022/20230228-scc-one-report2022-en.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://www.dcceew.gov.au/initiatives/nature-summit-2024/speakers → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://issuu.com/banksiafoundation/docs/australia_s_sustainability_success_stories_2025_ → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://www.colesgroup.com.au/FormBuilder/_Resource/_module/ir5sKeTxxEOndzdh00hWJw/file/Sustainability_Report_2023.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://d30mzt1bxg5llt.cloudfront.net/public/uploads/sip-reports/FBLReportFinalDigitalSmall.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://www.listcorp.com/asx/twe/treasury-wine-estates-limited/news/2023-sustainability-report-2935414.html → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-drive-toward-sustainability-in-packaging-beyond-the-quick-wins → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://s3.treasury.qld.gov.au/files/2024-queensland-sustainability-report.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://flct.frasersproperty.com/misc/FLCT-Annual-Report-2023.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://novafm.com.au/podcast/sustainable-transformation/76ac0e18-9364-4676-ae32-135753e94e6a → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://www.lexology.com/library/detail.aspx?g=36b23d9f-a291-4347-9b7d-94358140c824 → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://www.parliament.vic.gov.au/49620a/globalassets/tabled-paper-documents/tabled-paper-8665/yarra-valley-water-2023-24-annual-report.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://scc.listedcompany.com/misc/one-report/2023/20240227-scc-one-report2023-en.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://www.aspecthuntley.com.au/asxdata/20231004/pdf/02720828.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://www.ppgaust.com.au/files/21/Annual-Reports/1218/2024-Annual-Report.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://tassalgroup.com.au/wp-content/uploads/sites/2/2024/06/Tassal-Sustainability-Report-2023.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://s29.q4cdn.com/385744025/files/doc_downloads/2023/Visa-Inc-Fiscal-2023-Annual-Report.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://scgp.listedcompany.com/misc/ar/ar2022-en/doc.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e89a0>
+ Checking link: https://www.climateleaders.org.au/documents/Scope_3_Roadmap_PUBLISHED.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+
+ Visy Industries annual sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Visy Industries annual sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+ Checking link: https://sg.linkedin.com/in/marc-grange → Trusted? <function generate_urls.<locals>.<lambda> at 0x107fb0fe0>
+ Checking link: https://web.mit.edu/adamrose/Public/googlelist → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://investor.scgpackaging.com/storage/content/downloads/shareholders-meetings/2021/ar2020-en.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x107fb0fe0>
+ Checking link: https://downey-n1.cs.northwestern.edu/downloads/OTyper_data/mix_data/word_list.txt → Trusted? <function generate_urls.<locals>.<lambda> at 0x10262c360>
+ Checking link: https://www.valmet.com/content_folder/sitemap/ → Trusted? <function generate_urls.<locals>.<lambda> at 0x107fb0fe0>
+
+ Visy Industries annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Visy Industries annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Visy Industries annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Visy Industries annual sustainability ESG  corporate responsibility Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+ Checking link: https://au.linkedin.com/in/gayleseddon → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e9760>
+ Checking link: https://sg.linkedin.com/in/robert-y-tuason-b38a3b96 → Trusted? <function generate_urls.<locals>.<lambda> at 0x107fb0fe0>
+ Checking link: https://www.sec.gov/Archives/edgar/data/1776967/000095010320009157/dp125816_20f.htm → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e9760>
+ Checking link: https://www.toowoombachamber.com.au/wp-content/uploads/2023/05/Volume-16.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x107fb0fe0>
+ Checking link: https://www.bdo.co.uk/getmedia/11691747-7c33-4012-81e2-a76ee17ce19b/BDO-Report-Building-Products-and-Services-May-2024.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e9760>
+ Checking link: https://www.bgc.co.th/investor/image/en_60_20240318_141403.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x107fb0fe0>
+ Checking link: https://www.wmrr.asn.au/common/Uploaded%20files/Fact_Sheets/national-waste-report-2022.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e9760>
+ Checking link: https://www.austcorpexecutive.com.au/about/corporate-social-responsibility → Trusted? <function generate_urls.<locals>.<lambda> at 0x107fb0fe0>
+ Checking link: https://www.cityofpae.sa.gov.au/__data/assets/pdf_file/0025/1726342/PAE-annual-report-2023-24.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100e9760>
+ Checking link: https://www.timberbiz.com.au/ → Trusted? <function generate_urls.<locals>.<lambda> at 0x107fb0fe0>
+ Checking link: https://ausveg.com.au/app/uploads/2022/10/AUSVEG_VegetablesAustralia_Spring_2022_SB_FA_lr-1.pdf → Trusted? <function generate_urls.<locals>.<lambda> at 0x1100ea5c0>
+
+ Visy Industries annual sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Visy Industries annual sustainability ESG  corporate responsibility Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+
+ Saved 45 URLs to /Users/sharonkapina/Desktop/SWA_WORKING PROJECT/generated_urls_html.csv
+
+ Generating URLs for 50 orgs
+
+ Telstra Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+ Checking link: https://infraco.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-Telstra-Bigger-Picture-Sustainability-Report-Remediated.pdf → Trusted? True
+ Checking link: https://orca.cardiff.ac.uk/id/eprint/143750/1/1634569485915_2006101207.pdf → Trusted? False
+ Discarded: https://orca.cardiff.ac.uk/id/eprint/143750/1/1634569485915_2006101207.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra_In-focus_SDGs_2023_Remediated.pdf → Trusted? True
+ Checking link: https://www.instagram.com/unwa_canberra/p/DCVRN9ihdD7/?locale=zh_tw&hl=ar → Trusted? False
+ Discarded: https://www.instagram.com/unwa_canberra/p/DCVRN9ihdD7/?locale=zh_tw&hl=ar → Untrusted domain
+ Checking link: https://www.themartec.com/insidelook/australian-companies-workplace-culture → Trusted? False
+ Discarded: https://www.themartec.com/insidelook/australian-companies-workplace-culture → Untrusted domain
+ Checking link: https://www.cpaaustralia.com.au/-/media/project/cpa/corporate/documents/tools-and-resources/environmental-social-governance/research-report-sdg-measurement-and-disclosure-3-0.pdf?rev=36189bdc57ce43bb8a3dc11b831c5fbf → Trusted? False
+ Discarded: https://www.cpaaustralia.com.au/-/media/project/cpa/corporate/documents/tools-and-resources/environmental-social-governance/research-report-sdg-measurement-and-disclosure-3-0.pdf?rev=36189bdc57ce43bb8a3dc11b831c5fbf → Untrusted domain
+ Checking link: https://bel.uq.edu.au/files/41226/WGEA-report.pdf → Trusted? False
+ Discarded: https://bel.uq.edu.au/files/41226/WGEA-report.pdf → Untrusted domain
+ Checking link: https://www.esafety.gov.au/newsroom/whats-on/online-safety-act → Trusted? False
+ Discarded: https://www.esafety.gov.au/newsroom/whats-on/online-safety-act → Untrusted domain
+ Checking link: https://safelife.com.au/international-womens-day-2025/ → Trusted? False
+ Discarded: https://safelife.com.au/international-womens-day-2025/ → Untrusted domain
+ Checking link: https://www.reddit.com/r/recruitinghell/comments/kd1q4w/fuck_hirevue_and_any_company_that_makes/ → Trusted? False
+ Discarded: https://www.reddit.com/r/recruitinghell/comments/kd1q4w/fuck_hirevue_and_any_company_that_makes/ → Untrusted domain
+ Checking link: https://megandallacamina.com/media/ → Trusted? False
+ Discarded: https://megandallacamina.com/media/ → Untrusted domain
+ Checking link: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2023.pdf → Trusted? False
+ Discarded: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2023.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/company/telstra-super → Trusted? False
+ Discarded: https://au.linkedin.com/company/telstra-super → Untrusted domain
+ Checking link: https://www.dfat.gov.au/sites/default/files/sdg-voluntary-national-review.pdf → Trusted? False
+ Discarded: https://www.dfat.gov.au/sites/default/files/sdg-voluntary-national-review.pdf → Untrusted domain
+ Checking link: https://www.nema.gov.au/sites/default/files/2024-08/Annex%20to%20Australia%27s%20midterm%20review.pdf → Trusted? False
+ Discarded: https://www.nema.gov.au/sites/default/files/2024-08/Annex%20to%20Australia%27s%20midterm%20review.pdf → Untrusted domain
+ Checking link: https://wave.org.au/wp-content/uploads/2024/11/Beijing-30-NGO-Report-2024.pdf → Trusted? False
+ Discarded: https://wave.org.au/wp-content/uploads/2024/11/Beijing-30-NGO-Report-2024.pdf → Untrusted domain
+ Checking link: https://www.consultancy-me.com/news/5875/accenture-commits-to-more-women-in-uae-leadership-positions → Trusted? False
+ Discarded: https://www.consultancy-me.com/news/5875/accenture-commits-to-more-women-in-uae-leadership-positions → Untrusted domain
+ Checking link: https://the-hatchery.co/event/aps-women-in-leadership-summit-act-feb-2025/ → Trusted? False
+ Discarded: https://the-hatchery.co/event/aps-women-in-leadership-summit-act-feb-2025/ → Untrusted domain
+ Checking link: https://www.arc.gov.au/sites/default/files/lp20_round_3_nit_statements_29072021.pdf?token=k_M4y6zl → Trusted? False
+ Discarded: https://www.arc.gov.au/sites/default/files/lp20_round_3_nit_statements_29072021.pdf?token=k_M4y6zl → Untrusted domain
+ Checking link: https://www.unwomen.org/sites/default/files/2024-09/b30_report_indonesia_en.pdf → Trusted? False
+ Discarded: https://www.unwomen.org/sites/default/files/2024-09/b30_report_indonesia_en.pdf → Untrusted domain
+ Checking link: https://womenlovetech.com/un-gender-equality-report-today-highlights-gains-and-challenges/ → Trusted? False
+ Discarded: https://womenlovetech.com/un-gender-equality-report-today-highlights-gains-and-challenges/ → Untrusted domain
+ Checking link: https://nz.linkedin.com/in/nysa-lakhani-071191248 → Trusted? False
+ Discarded: https://nz.linkedin.com/in/nysa-lakhani-071191248 → Untrusted domain
+ Checking link: https://fifthworldshelterconference.org/ → Trusted? False
+ Discarded: https://fifthworldshelterconference.org/ → Untrusted domain
+ Checking link: https://www.linkedin.com/pulse/gender-equality-workplace-progress-persistent-challenges-vkjpc → Trusted? False
+ Discarded: https://www.linkedin.com/pulse/gender-equality-workplace-progress-persistent-challenges-vkjpc → Untrusted domain
+ Checking link: https://issuu.com/surflifesavingaustralia/docs/slsa_deiframework_nov24 → Trusted? False
+ Discarded: https://issuu.com/surflifesavingaustralia/docs/slsa_deiframework_nov24 → Untrusted domain
+ Checking link: https://unctad.org/system/files/official-document/dtlecdc2025d1_en.pdf → Trusted? False
+ Discarded: https://unctad.org/system/files/official-document/dtlecdc2025d1_en.pdf → Untrusted domain
+ Checking link: https://womenrisingco.com/program/ → Trusted? False
+ Discarded: https://womenrisingco.com/program/ → Untrusted domain
+ Checking link: https://www.itu.int/net4/wsis/prizes/2018/ → Trusted? False
+ Discarded: https://www.itu.int/net4/wsis/prizes/2018/ → Untrusted domain
+ Checking link: https://standingstrongclubs.com/ → Trusted? False
+ Discarded: https://standingstrongclubs.com/ → Untrusted domain
+ Checking link: https://sustainabledevelopment.un.org/content/documents/20470VNR_final_approved_version.pdf → Trusted? False
+ Discarded: https://sustainabledevelopment.un.org/content/documents/20470VNR_final_approved_version.pdf → Untrusted domain
+
+ Telstra Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+ Checking link: https://medium.com/code-club-australia/talking-rubbish-a-moonhack-2024-project-a02f6730b373 → Trusted? False
+ Discarded: https://medium.com/code-club-australia/talking-rubbish-a-moonhack-2024-project-a02f6730b373 → Untrusted domain
+ Checking link: https://investors.newscorp.com/static-files/3e47bb14-f93c-4358-8118-78c0945c9124 → Trusted? False
+ Discarded: https://investors.newscorp.com/static-files/3e47bb14-f93c-4358-8118-78c0945c9124 → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-g/telstra-annual-report-2024.pdf → Trusted? True
+ Checking link: https://www.apidays.global/australia/ → Trusted? False
+ Discarded: https://www.apidays.global/australia/ → Untrusted domain
+ Checking link: https://www.sciencedirect.com/science/article/pii/S2773207X24001386 → Trusted? False
+ Discarded: https://www.sciencedirect.com/science/article/pii/S2773207X24001386 → Untrusted domain
+ Checking link: https://www.dcceew.gov.au/sites/default/files/documents/enabling-design-environmental-good-sub-report-cross-cutting-levers_0.pdf → Trusted? False
+ Discarded: https://www.dcceew.gov.au/sites/default/files/documents/enabling-design-environmental-good-sub-report-cross-cutting-levers_0.pdf → Untrusted domain
+ Checking link: https://www.accc.gov.au/system/files/annual-report-2023-24.pdf → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/annual-report-2023-24.pdf → Untrusted domain
+ Checking link: https://www.worley.com/-/media/files/worley/investors/results-and-presentations/2024/wor-annual-report-2024.pdf → Trusted? False
+ Discarded: https://www.worley.com/-/media/files/worley/investors/results-and-presentations/2024/wor-annual-report-2024.pdf → Untrusted domain
+ Checking link: https://sdgalign.com.au/blog/ → Trusted? False
+ Discarded: https://sdgalign.com.au/blog/ → Untrusted domain
+ Checking link: https://www.health.gov.au/sites/default/files/documents/2021/12/national-preventive-health-strategy-2021-2030_1.pdf → Trusted? False
+ Discarded: https://www.health.gov.au/sites/default/files/documents/2021/12/national-preventive-health-strategy-2021-2030_1.pdf → Untrusted domain
+ Checking link: https://blogs.microsoft.com/blog/2025/03/10/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/ → Trusted? False
+ Discarded: https://blogs.microsoft.com/blog/2025/03/10/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/ → Untrusted domain
+ Checking link: https://www.dcceew.gov.au/environment/international/nature-positive-summit → Trusted? False
+ Discarded: https://www.dcceew.gov.au/environment/international/nature-positive-summit → Untrusted domain
+ Checking link: https://au.linkedin.com/in/christa-fieldsend-829b323a → Trusted? False
+ Discarded: https://au.linkedin.com/in/christa-fieldsend-829b323a → Untrusted domain
+ Checking link: https://www.rba.gov.au/education/resources/explainers/australia-and-the-global-economy.html → Trusted? False
+ Discarded: https://www.rba.gov.au/education/resources/explainers/australia-and-the-global-economy.html → Untrusted domain
+ Checking link: https://www.atlassian.com/software/confluence → Trusted? False
+ Discarded: https://www.atlassian.com/software/confluence → Untrusted domain
+ Checking link: https://guidance.cdp.net/en/guidance?cid=46&ctype=theme&idtype=ThemeID&incchild=1&microsite=0&otype=Questionnaire&tags=TAG-13071%2CTAG-605%2CTAG-599 → Trusted? False
+ Discarded: https://guidance.cdp.net/en/guidance?cid=46&ctype=theme&idtype=ThemeID&incchild=1&microsite=0&otype=Questionnaire&tags=TAG-13071%2CTAG-605%2CTAG-599 → Untrusted domain
+ Checking link: https://www.barrierreef.org/the-reef/the-value → Trusted? False
+ Discarded: https://www.barrierreef.org/the-reef/the-value → Untrusted domain
+ Checking link: https://www.u-blox.com/docs/UBX-16029218 → Trusted? False
+ Discarded: https://www.u-blox.com/docs/UBX-16029218 → Untrusted domain
+ Checking link: https://www.brambles.com/Content/cms/FY24-Results/pdf/Brambles_2024_Annual_Report.pdf → Trusted? False
+ Discarded: https://www.brambles.com/Content/cms/FY24-Results/pdf/Brambles_2024_Annual_Report.pdf → Untrusted domain
+ Checking link: https://www.thalesgroup.com/en/markets/digital-identity-and-security/mobile/packaging → Trusted? False
+ Discarded: https://www.thalesgroup.com/en/markets/digital-identity-and-security/mobile/packaging → Untrusted domain
+ Checking link: https://www.arc.gov.au/sites/default/files/2024-08/DE25_NIT_statements_08262024.pdf → Trusted? False
+ Discarded: https://www.arc.gov.au/sites/default/files/2024-08/DE25_NIT_statements_08262024.pdf → Untrusted domain
+ Checking link: https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/ASX_SSM_2022.pdf → Trusted? False
+ Discarded: https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/ASX_SSM_2022.pdf → Untrusted domain
+ Checking link: https://www.bhp.com/-/media/documents/investors/annual-reports/2024/240827_bhpannualreport2024.pdf → Trusted? False
+ Discarded: https://www.bhp.com/-/media/documents/investors/annual-reports/2024/240827_bhpannualreport2024.pdf → Untrusted domain
+ Checking link: https://www.lexisnexis.com/en-au/products/practical-guidance/latest-legal-updates/consumer-law → Trusted? False
+ Discarded: https://www.lexisnexis.com/en-au/products/practical-guidance/latest-legal-updates/consumer-law → Untrusted domain
+
+ Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+ Checking link: https://www.coliseum-online.com/76ers-reveal-plan-for-philadelphia-arena/ → Trusted? False
+ Discarded: https://www.coliseum-online.com/76ers-reveal-plan-for-philadelphia-arena/ → Untrusted domain
+ Checking link: https://eprints.gla.ac.uk/221575/1/221575.pdf → Trusted? False
+ Discarded: https://eprints.gla.ac.uk/221575/1/221575.pdf → Untrusted domain
+ Checking link: https://neoen.com/app/uploads/2021/12/1588609378-neoen-urd-2019-ven2.pdf → Trusted? False
+ Discarded: https://neoen.com/app/uploads/2021/12/1588609378-neoen-urd-2019-ven2.pdf → Untrusted domain
+ Checking link: https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/20212024-Quadrennial-Supply-Chain-Review.pdf → Trusted? False
+ Discarded: https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/20212024-Quadrennial-Supply-Chain-Review.pdf → Untrusted domain
+ Checking link: https://core.unesco.org/en/projects → Trusted? False
+ Discarded: https://core.unesco.org/en/projects → Untrusted domain
+ Checking link: https://www.cbd.int/doc/nr/nr-06/pg-nr-06-en.pdf → Trusted? False
+ Discarded: https://www.cbd.int/doc/nr/nr-06/pg-nr-06-en.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/frankarr → Trusted? False
+ Discarded: https://au.linkedin.com/in/frankarr → Untrusted domain
+ Checking link: https://www.uscc.gov/sites/default/files/2025-03/March_20_2025_Hearing_Transcript.pdf → Trusted? False
+ Discarded: https://www.uscc.gov/sites/default/files/2025-03/March_20_2025_Hearing_Transcript.pdf → Untrusted domain
+ Checking link: https://www.apec.org/docs/default-source/Publications/2020/3/Regulations-Policies-and-Initiatives-on-E-Commerce-and-Digital-Economy/220ECSGRegulations-Policies-and-Initiatives-on-ECommerce-and-Digital-Economy-for-APEC-MSMEs-Particip.pdf → Trusted? False
+ Discarded: https://www.apec.org/docs/default-source/Publications/2020/3/Regulations-Policies-and-Initiatives-on-E-Commerce-and-Digital-Economy/220ECSGRegulations-Policies-and-Initiatives-on-ECommerce-and-Digital-Economy-for-APEC-MSMEs-Particip.pdf → Untrusted domain
+ Checking link: https://www.accc.gov.au/system/files/Network%20December%202022.pdf → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/Network%20December%202022.pdf → Untrusted domain
+ Checking link: https://www.jbic.go.jp/en/information/image/2023E_m00_full.pdf → Trusted? False
+ Discarded: https://www.jbic.go.jp/en/information/image/2023E_m00_full.pdf → Untrusted domain
+ Checking link: https://www.mckinsey.com/~/media/mckinsey/industries/technology%20media%20and%20telecommunications/telecommunications/our%20insights/connected%20world%20an%20evolution%20in%20connectivity%20beyond%20the%205g%20revolution/mgi_connected-world_discussion-paper_february-2020.pdf → Trusted? False
+ Discarded: https://www.mckinsey.com/~/media/mckinsey/industries/technology%20media%20and%20telecommunications/telecommunications/our%20insights/connected%20world%20an%20evolution%20in%20connectivity%20beyond%20the%205g%20revolution/mgi_connected-world_discussion-paper_february-2020.pdf → Untrusted domain
+ Checking link: https://www.edo.org.au/wp-content/uploads/2022/06/APEEL-Technical-Papers-1-8-Compilation.pdf → Trusted? False
+ Discarded: https://www.edo.org.au/wp-content/uploads/2022/06/APEEL-Technical-Papers-1-8-Compilation.pdf → Untrusted domain
+ Checking link: https://www.fcc.gov/stage/pdf/Berkman_Center_Broadband_Study_13Oct09.pdf → Trusted? False
+ Discarded: https://www.fcc.gov/stage/pdf/Berkman_Center_Broadband_Study_13Oct09.pdf → Untrusted domain
+ Checking link: https://www.nbr.org/wp-content/uploads/pdfs/publications/sr116_us-japan_technology_feb2025.pdf → Trusted? False
+ Discarded: https://www.nbr.org/wp-content/uploads/pdfs/publications/sr116_us-japan_technology_feb2025.pdf → Untrusted domain
+ Checking link: https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-23-000021/0000050863-23-000021.pdf → Trusted? False
+ Discarded: https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-23-000021/0000050863-23-000021.pdf → Untrusted domain
+ Checking link: https://sportnxt.org/ → Trusted? False
+ Discarded: https://sportnxt.org/ → Untrusted domain
+ Checking link: https://www.mangrovealliance.org/wp-content/uploads/2019/11/Tangled-Roots-and-Changing-Tides.pdf → Trusted? False
+ Discarded: https://www.mangrovealliance.org/wp-content/uploads/2019/11/Tangled-Roots-and-Changing-Tides.pdf → Untrusted domain
+ Checking link: https://www.gmfus.org/sites/default/files/2021-12/2018%20TUPP%20Report.pdf → Trusted? False
+ Discarded: https://www.gmfus.org/sites/default/files/2021-12/2018%20TUPP%20Report.pdf → Untrusted domain
+ Checking link: https://howardpartners.com.au/wp-content/uploads/2023/01/Challenges-for-Australian-Research-and-Innovation.pdf → Trusted? False
+ Discarded: https://howardpartners.com.au/wp-content/uploads/2023/01/Challenges-for-Australian-Research-and-Innovation.pdf → Untrusted domain
+ Checking link: https://www.eoportal.org/satellite-missions/oneweb → Trusted? False
+ Discarded: https://www.eoportal.org/satellite-missions/oneweb → Untrusted domain
+ Checking link: https://www.ltts.com/ → Trusted? False
+ Discarded: https://www.ltts.com/ → Untrusted domain
+ Checking link: https://www.stadiumbusinesssummit.com/ → Trusted? False
+ Discarded: https://www.stadiumbusinesssummit.com/ → Untrusted domain
+ Checking link: https://unesdoc.unesco.org/ark:/48223/pf0000391185.locale=en → Trusted? False
+ Discarded: https://unesdoc.unesco.org/ark:/48223/pf0000391185.locale=en → Untrusted domain
+ Checking link: https://pacificecommerce.org/wp-content/uploads/2024/05/Digital-Ecosystem-Country-Assessment_Pacific-Countries_USAID.pdf → Trusted? False
+ Discarded: https://pacificecommerce.org/wp-content/uploads/2024/05/Digital-Ecosystem-Country-Assessment_Pacific-Countries_USAID.pdf → Untrusted domain
+ Checking link: https://www.annualreports.com/HostedData/AnnualReportArchive/s/south-east-water_2020.pdf → Trusted? False
+ Discarded: https://www.annualreports.com/HostedData/AnnualReportArchive/s/south-east-water_2020.pdf → Untrusted domain
+
+ Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+ Checking link: https://aws.amazon.com/compliance/australia-new-zealand/ → Trusted? False
+ Discarded: https://aws.amazon.com/compliance/australia-new-zealand/ → Untrusted domain
+ Checking link: https://www.niaa.gov.au/sites/default/files/documents/publications/first-nations-digital-inclusion-plan-2023-2026_0.pdf → Trusted? False
+ Discarded: https://www.niaa.gov.au/sites/default/files/documents/publications/first-nations-digital-inclusion-plan-2023-2026_0.pdf → Untrusted domain
+ Checking link: https://www.tsra.gov.au/__data/assets/pdf_file/0013/2038/14-saibai-slup.pdf → Trusted? False
+ Discarded: https://www.tsra.gov.au/__data/assets/pdf_file/0013/2038/14-saibai-slup.pdf → Untrusted domain
+ Checking link: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-issues-paper_0.pdf → Trusted? False
+ Discarded: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-issues-paper_0.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-Sustainability-Report-2023-Remediated.pdf → Trusted? True
+ Checking link: https://www.accc.gov.au/system/files/accc-and-aer-corporate-plan-2024-25.pdf → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/accc-and-aer-corporate-plan-2024-25.pdf → Untrusted domain
+ Checking link: https://www.liveperson.com/ → Trusted? False
+ Discarded: https://www.liveperson.com/ → Untrusted domain
+ Checking link: https://www.telstrainternational.com/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-Sustainability-Report-2023.pdf → Trusted? True
+ Checking link: https://www.bain.com/insights/the-power-of-flexibility/ → Trusted? False
+ Discarded: https://www.bain.com/insights/the-power-of-flexibility/ → Untrusted domain
+ Checking link: https://au.linkedin.com/in/michelle-howie-energy → Trusted? False
+ Discarded: https://au.linkedin.com/in/michelle-howie-energy → Untrusted domain
+ Checking link: https://www.nema.gov.au/our-work/key-programs/disaster-ready-fund → Trusted? False
+ Discarded: https://www.nema.gov.au/our-work/key-programs/disaster-ready-fund → Untrusted domain
+ Checking link: https://electricvehiclecouncil.com.au/members/ → Trusted? False
+ Discarded: https://electricvehiclecouncil.com.au/members/ → Untrusted domain
+ Checking link: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-telstra-submission.pdf → Trusted? False
+ Discarded: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-telstra-submission.pdf → Untrusted domain
+ Checking link: https://unfccc.int/sites/default/files/resource/Australias_LTS_WEB.pdf → Trusted? False
+ Discarded: https://unfccc.int/sites/default/files/resource/Australias_LTS_WEB.pdf → Untrusted domain
+ Checking link: https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2024/agricultural-technology-predictions.html → Trusted? False
+ Discarded: https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2024/agricultural-technology-predictions.html → Untrusted domain
+ Checking link: https://www.res-group.com/us/about-us/ → Trusted? False
+ Discarded: https://www.res-group.com/us/about-us/ → Untrusted domain
+ Checking link: https://crtc.gc.ca/eng/publications/reports/gartner2024.htm → Trusted? False
+ Discarded: https://crtc.gc.ca/eng/publications/reports/gartner2024.htm → Untrusted domain
+
+ Telstra Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-In-focus-Sustainability-at-Telstra-Remediated.pdf → Trusted? True
+ Checking link: https://natsiwa.org.au/docman/newsletters/62-march-2024/file → Trusted? False
+ Discarded: https://natsiwa.org.au/docman/newsletters/62-march-2024/file → Untrusted domain
+ Checking link: https://www.linkedin.com/posts/divpillay_telstrabestofbusiness-acceleratingwomen-activity-7268039964724998145-d_Ot → Trusted? False
+ Discarded: https://www.linkedin.com/posts/divpillay_telstrabestofbusiness-acceleratingwomen-activity-7268039964724998145-d_Ot → Untrusted domain
+ Checking link: https://www.telstrahealth.com/wp-content/uploads/2024/03/Brilliant-Women-in-Digital-Health-Awards-2022-Report.pdf → Trusted? True
+ Checking link: https://risewib.com/about → Trusted? False
+ Discarded: https://risewib.com/about → Untrusted domain
+ Checking link: https://australianyouthdigitalindex.com/wp-content/uploads/2024/11/AYDI-Report_Landscape_T_FA.pdf → Trusted? False
+ Discarded: https://australianyouthdigitalindex.com/wp-content/uploads/2024/11/AYDI-Report_Landscape_T_FA.pdf → Untrusted domain
+ Checking link: https://www.gihub.org/connectivity-across-borders/case-studies/coral-sea-cable-system/ → Trusted? False
+ Discarded: https://www.gihub.org/connectivity-across-borders/case-studies/coral-sea-cable-system/ → Untrusted domain
+ Checking link: https://radioinfo.com.au/news/sustainability-activities-deliver-cost-savings-and-transmitter-efficiency-radiodaysasia/ → Trusted? False
+ Discarded: https://radioinfo.com.au/news/sustainability-activities-deliver-cost-savings-and-transmitter-efficiency-radiodaysasia/ → Untrusted domain
+ Checking link: https://www.dca.org.au/wp-content/uploads/2024/06/DCA-2023-Annual-Report-Online.pdf → Trusted? False
+ Discarded: https://www.dca.org.au/wp-content/uploads/2024/06/DCA-2023-Annual-Report-Online.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/jennifer-wittwer → Trusted? False
+ Discarded: https://au.linkedin.com/in/jennifer-wittwer → Untrusted domain
+ Checking link: https://www.fionawoodfoundation.org.au/fionawoodfoundation/media/documents/fwf-2024-annual-report.pdf → Trusted? False
+ Discarded: https://www.fionawoodfoundation.org.au/fionawoodfoundation/media/documents/fwf-2024-annual-report.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/rebecca-kear-23943bb5 → Trusted? False
+ Discarded: https://au.linkedin.com/in/rebecca-kear-23943bb5 → Untrusted domain
+ Checking link: https://www2.deloitte.com/content/dam/Deloitte/my/Documents/risk/my-risk-sdg5-women-in-the-boardroom-a-global-perspective.pdf → Trusted? False
+ Discarded: https://www2.deloitte.com/content/dam/Deloitte/my/Documents/risk/my-risk-sdg5-women-in-the-boardroom-a-global-perspective.pdf → Untrusted domain
+
+ Telstra Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+ Checking link: https://www.dcceew.gov.au/sites/default/files/documents/enabling-design-environmental-good-sub-report-electronic-goods_0.pdf → Trusted? False
+ Discarded: https://www.dcceew.gov.au/sites/default/files/documents/enabling-design-environmental-good-sub-report-electronic-goods_0.pdf → Untrusted domain
+ Checking link: https://www.fwc.gov.au/conduct → Trusted? False
+ Discarded: https://www.fwc.gov.au/conduct → Untrusted domain
+ Checking link: https://investors.newscorp.com/static-files/548ea427-f0ec-40ae-8359-d49207151d14 → Trusted? False
+ Discarded: https://investors.newscorp.com/static-files/548ea427-f0ec-40ae-8359-d49207151d14 → Untrusted domain
+ Checking link: https://stewardshipexcellence.com.au/wp-content/uploads/2024/07/PSCoE-Forum-2024-Communique-FINAL.pdf → Trusted? False
+ Discarded: https://stewardshipexcellence.com.au/wp-content/uploads/2024/07/PSCoE-Forum-2024-Communique-FINAL.pdf → Untrusted domain
+ Checking link: https://www.reddit.com/r/nbn/comments/179xyzo/what_happened_to_nbn_does_this_story_sound_right/ → Trusted? False
+ Discarded: https://www.reddit.com/r/nbn/comments/179xyzo/what_happened_to_nbn_does_this_story_sound_right/ → Untrusted domain
+ Checking link: https://unglobalcompact.org.au/wp-content/uploads/2024/04/2024.04.17-UNGCNA-Impact-Report-2023.pdf → Trusted? False
+ Discarded: https://unglobalcompact.org.au/wp-content/uploads/2024/04/2024.04.17-UNGCNA-Impact-Report-2023.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-2022-Sustainability-Report_Accessible-Remediated.pdf → Trusted? True
+ Checking link: https://www.accc.gov.au/system/files/TelSoc%20-%20supporting%20submission%20-%20Towards%20a%20National%20Broadband%20Strategy%202020-2030-release.pdf?ref=0&download=y → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/TelSoc%20-%20supporting%20submission%20-%20Towards%20a%20National%20Broadband%20Strategy%202020-2030-release.pdf?ref=0&download=y → Untrusted domain
+ Checking link: https://www.acma.gov.au/sites/default/files/2021-12/Trends%20and%20developments%20in%20telecommunications%202020-21_0.pdf → Trusted? False
+ Discarded: https://www.acma.gov.au/sites/default/files/2021-12/Trends%20and%20developments%20in%20telecommunications%202020-21_0.pdf → Untrusted domain
+
+ Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+ Checking link: https://www.energy.nsw.gov.au/sites/default/files/2022-09/employment-skills-and-supply-chains-renewable-energy-in-nsw-final-report.pdf → Trusted? False
+ Discarded: https://www.energy.nsw.gov.au/sites/default/files/2022-09/employment-skills-and-supply-chains-renewable-energy-in-nsw-final-report.pdf → Untrusted domain
+ Checking link: https://connectingfromtheskies.com/ → Trusted? False
+ Discarded: https://connectingfromtheskies.com/ → Untrusted domain
+ Checking link: https://www.cutter.com/article/agile-adaptive-voices-c-suite-jeff-smith-former-ibm-suncorp-cio → Trusted? False
+ Discarded: https://www.cutter.com/article/agile-adaptive-voices-c-suite-jeff-smith-former-ibm-suncorp-cio → Untrusted domain
+ Checking link: https://www.ceenrg.landecon.cam.ac.uk/system/files/documents/AguilaVinualesAGlobalPactfortheEnvironmentCambridgeReportMarch2019.pdf → Trusted? False
+ Discarded: https://www.ceenrg.landecon.cam.ac.uk/system/files/documents/AguilaVinualesAGlobalPactfortheEnvironmentCambridgeReportMarch2019.pdf → Untrusted domain
+ Checking link: https://spap.jst.go.jp/investigation/downloads/2022_rr_08_en.pdf → Trusted? False
+ Discarded: https://spap.jst.go.jp/investigation/downloads/2022_rr_08_en.pdf → Untrusted domain
+ Checking link: https://globalpactenvironment.org/uploads/Aguila-Vinuales-A-Global-Pact-for-the-Environment-Cambridge-Report-March-2019.pdf → Trusted? False
+ Discarded: https://globalpactenvironment.org/uploads/Aguila-Vinuales-A-Global-Pact-for-the-Environment-Cambridge-Report-March-2019.pdf → Untrusted domain
+ Checking link: https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1049&context=iasdr → Trusted? False
+ Discarded: https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1049&context=iasdr → Untrusted domain
+ Checking link: https://www.junee.nsw.gov.au/wp-content/uploads/2024/08/2024_August_Ordinary_Business_Paper.pdf → Trusted? False
+ Discarded: https://www.junee.nsw.gov.au/wp-content/uploads/2024/08/2024_August_Ordinary_Business_Paper.pdf → Untrusted domain
+
+ Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+ Checking link: https://nqphn.com.au/sites/default/files/2024-02/national-digital-health-strategy-2023-2028.pdf → Trusted? False
+ Discarded: https://nqphn.com.au/sites/default/files/2024-02/national-digital-health-strategy-2023-2028.pdf → Untrusted domain
+ Checking link: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2024.pdf → Trusted? False
+ Discarded: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2024.pdf → Untrusted domain
+ Checking link: https://www.basscoast.vic.gov.au/assets/general-images/Economic-Development-and-Tourism/2030-Economic-Development-Framework.pdf → Trusted? False
+ Discarded: https://www.basscoast.vic.gov.au/assets/general-images/Economic-Development-and-Tourism/2030-Economic-Development-Framework.pdf → Untrusted domain
+ Checking link: https://www.bendigo.vic.gov.au/sites/default/files/2024-03/City-Greater-Bendigo-Council-Meeting-March-25-2024-Agenda.pdf → Trusted? False
+ Discarded: https://www.bendigo.vic.gov.au/sites/default/files/2024-03/City-Greater-Bendigo-Council-Meeting-March-25-2024-Agenda.pdf → Untrusted domain
+ Checking link: https://regionaldevelopmentsa.com.au/wp-content/uploads/2024/02/RDSA-2023-Infrastructure-Prioritisation-Report_Final_Compressed.pdf → Trusted? False
+ Discarded: https://regionaldevelopmentsa.com.au/wp-content/uploads/2024/02/RDSA-2023-Infrastructure-Prioritisation-Report_Final_Compressed.pdf → Untrusted domain
+ Checking link: https://www.energyq.com.au/__data/assets/pdf_file/0011/1118828/Energy-Queensland-Ltd-Annual-Report-2022-23.pdf.pdf → Trusted? False
+ Discarded: https://www.energyq.com.au/__data/assets/pdf_file/0011/1118828/Energy-Queensland-Ltd-Annual-Report-2022-23.pdf.pdf → Untrusted domain
+ Checking link: https://archive.budget.gov.au/2023-24/myefo/download/myefo2023-24.pdf → Trusted? False
+ Discarded: https://archive.budget.gov.au/2023-24/myefo/download/myefo2023-24.pdf → Untrusted domain
+ Checking link: https://www.treasury.sa.gov.au/__data/assets/pdf_file/0009/914670/2023-24-Budget-Statement.pdf → Trusted? False
+ Discarded: https://www.treasury.sa.gov.au/__data/assets/pdf_file/0009/914670/2023-24-Budget-Statement.pdf → Untrusted domain
+
+ Saved 8 URLs to /Users/sharonkapina/Desktop/SWA_WORKING PROJECT/generated_urls_html.csv
+
+ Generating URLs for 50 orgs
+
+ Telstra Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+ Checking link: https://womenrisingco.com/program/ → Trusted? False
+ Discarded: https://womenrisingco.com/program/ → Untrusted domain
+ Checking link: https://www.consultancy-me.com/news/5875/accenture-commits-to-more-women-in-uae-leadership-positions → Trusted? False
+ Discarded: https://www.consultancy-me.com/news/5875/accenture-commits-to-more-women-in-uae-leadership-positions → Untrusted domain
+ Checking link: https://www.reddit.com/r/recruitinghell/comments/kd1q4w/fuck_hirevue_and_any_company_that_makes/ → Trusted? False
+ Discarded: https://www.reddit.com/r/recruitinghell/comments/kd1q4w/fuck_hirevue_and_any_company_that_makes/ → Untrusted domain
+ Checking link: https://bel.uq.edu.au/files/41226/WGEA-report.pdf → Trusted? False
+ Discarded: https://bel.uq.edu.au/files/41226/WGEA-report.pdf → Untrusted domain
+ Checking link: https://www.dfat.gov.au/sites/default/files/sdg-voluntary-national-review.pdf → Trusted? False
+ Discarded: https://www.dfat.gov.au/sites/default/files/sdg-voluntary-national-review.pdf → Untrusted domain
+ Checking link: https://unctad.org/system/files/official-document/dtlecdc2025d1_en.pdf → Trusted? False
+ Discarded: https://unctad.org/system/files/official-document/dtlecdc2025d1_en.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/company/telstra-super → Trusted? False
+ Discarded: https://au.linkedin.com/company/telstra-super → Untrusted domain
+ Checking link: https://www.nema.gov.au/sites/default/files/2024-08/Annex%20to%20Australia%27s%20midterm%20review.pdf → Trusted? False
+ Discarded: https://www.nema.gov.au/sites/default/files/2024-08/Annex%20to%20Australia%27s%20midterm%20review.pdf → Untrusted domain
+ Checking link: https://standingstrongclubs.com/ → Trusted? False
+ Discarded: https://standingstrongclubs.com/ → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra_In-focus_SDGs_2023_Remediated.pdf → Trusted? True
+ Checking link: https://www.arc.gov.au/sites/default/files/lp20_round_3_nit_statements_29072021.pdf?token=k_M4y6zl → Trusted? False
+ Discarded: https://www.arc.gov.au/sites/default/files/lp20_round_3_nit_statements_29072021.pdf?token=k_M4y6zl → Untrusted domain
+ Checking link: https://fifthworldshelterconference.org/ → Trusted? False
+ Discarded: https://fifthworldshelterconference.org/ → Untrusted domain
+ Checking link: https://www.linkedin.com/pulse/gender-equality-workplace-progress-persistent-challenges-vkjpc → Trusted? False
+ Discarded: https://www.linkedin.com/pulse/gender-equality-workplace-progress-persistent-challenges-vkjpc → Untrusted domain
+ Checking link: https://sustainabledevelopment.un.org/content/documents/20470VNR_final_approved_version.pdf → Trusted? False
+ Discarded: https://sustainabledevelopment.un.org/content/documents/20470VNR_final_approved_version.pdf → Untrusted domain
+ Checking link: https://www.esafety.gov.au/newsroom/whats-on/online-safety-act → Trusted? False
+ Discarded: https://www.esafety.gov.au/newsroom/whats-on/online-safety-act → Untrusted domain
+ Checking link: https://www.themartec.com/insidelook/australian-companies-workplace-culture → Trusted? False
+ Discarded: https://www.themartec.com/insidelook/australian-companies-workplace-culture → Untrusted domain
+ Checking link: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2023.pdf → Trusted? False
+ Discarded: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2023.pdf → Untrusted domain
+ Checking link: https://orca.cardiff.ac.uk/id/eprint/143750/1/1634569485915_2006101207.pdf → Trusted? False
+ Discarded: https://orca.cardiff.ac.uk/id/eprint/143750/1/1634569485915_2006101207.pdf → Untrusted domain
+ Checking link: https://www.itu.int/net4/wsis/prizes/2018/ → Trusted? False
+ Discarded: https://www.itu.int/net4/wsis/prizes/2018/ → Untrusted domain
+ Checking link: https://wave.org.au/wp-content/uploads/2024/11/Beijing-30-NGO-Report-2024.pdf → Trusted? False
+ Discarded: https://wave.org.au/wp-content/uploads/2024/11/Beijing-30-NGO-Report-2024.pdf → Untrusted domain
+ Checking link: https://nz.linkedin.com/in/nysa-lakhani-071191248 → Trusted? False
+ Discarded: https://nz.linkedin.com/in/nysa-lakhani-071191248 → Untrusted domain
+ Checking link: https://www.cpaaustralia.com.au/-/media/project/cpa/corporate/documents/tools-and-resources/environmental-social-governance/research-report-sdg-measurement-and-disclosure-3-0.pdf?rev=36189bdc57ce43bb8a3dc11b831c5fbf → Trusted? False
+ Discarded: https://www.cpaaustralia.com.au/-/media/project/cpa/corporate/documents/tools-and-resources/environmental-social-governance/research-report-sdg-measurement-and-disclosure-3-0.pdf?rev=36189bdc57ce43bb8a3dc11b831c5fbf → Untrusted domain
+ Checking link: https://infraco.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-Telstra-Bigger-Picture-Sustainability-Report-Remediated.pdf → Trusted? True
+ Checking link: https://safelife.com.au/international-womens-day-2025/ → Trusted? False
+ Discarded: https://safelife.com.au/international-womens-day-2025/ → Untrusted domain
+ Checking link: https://megandallacamina.com/media/ → Trusted? False
+ Discarded: https://megandallacamina.com/media/ → Untrusted domain
+ Checking link: https://womenlovetech.com/un-gender-equality-report-today-highlights-gains-and-challenges/ → Trusted? False
+ Discarded: https://womenlovetech.com/un-gender-equality-report-today-highlights-gains-and-challenges/ → Untrusted domain
+ Checking link: https://issuu.com/surflifesavingaustralia/docs/slsa_deiframework_nov24 → Trusted? False
+ Discarded: https://issuu.com/surflifesavingaustralia/docs/slsa_deiframework_nov24 → Untrusted domain
+ Checking link: https://www.instagram.com/unwa_canberra/p/DCVRN9ihdD7/?locale=zh_tw&hl=ar → Trusted? False
+ Discarded: https://www.instagram.com/unwa_canberra/p/DCVRN9ihdD7/?locale=zh_tw&hl=ar → Untrusted domain
+ Checking link: https://the-hatchery.co/event/aps-women-in-leadership-summit-act-feb-2025/ → Trusted? False
+ Discarded: https://the-hatchery.co/event/aps-women-in-leadership-summit-act-feb-2025/ → Untrusted domain
+ Checking link: https://www.unwomen.org/sites/default/files/2024-09/b30_report_indonesia_en.pdf → Trusted? False
+ Discarded: https://www.unwomen.org/sites/default/files/2024-09/b30_report_indonesia_en.pdf → Untrusted domain
+
+ Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+ Checking link: https://www.worley.com/-/media/files/worley/investors/results-and-presentations/2024/wor-annual-report-2024.pdf → Trusted? False
+ Discarded: https://www.worley.com/-/media/files/worley/investors/results-and-presentations/2024/wor-annual-report-2024.pdf → Untrusted domain
+ Checking link: https://crtc.gc.ca/eng/publications/reports/gartner2024.htm → Trusted? False
+ Discarded: https://crtc.gc.ca/eng/publications/reports/gartner2024.htm → Untrusted domain
+ Checking link: https://aws.amazon.com/compliance/australia-new-zealand/ → Trusted? False
+ Discarded: https://aws.amazon.com/compliance/australia-new-zealand/ → Untrusted domain
+ Checking link: https://www.tsra.gov.au/__data/assets/pdf_file/0013/2038/14-saibai-slup.pdf → Trusted? False
+ Discarded: https://www.tsra.gov.au/__data/assets/pdf_file/0013/2038/14-saibai-slup.pdf → Untrusted domain
+ Checking link: https://www.accc.gov.au/system/files/accc-and-aer-corporate-plan-2024-25.pdf → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/accc-and-aer-corporate-plan-2024-25.pdf → Untrusted domain
+ Checking link: https://www.telstrainternational.com/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-Sustainability-Report-2023.pdf → Trusted? True
+ Checking link: https://www.nema.gov.au/our-work/key-programs/disaster-ready-fund → Trusted? False
+ Discarded: https://www.nema.gov.au/our-work/key-programs/disaster-ready-fund → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-Sustainability-Report-2023-Remediated.pdf → Trusted? True
+ Checking link: https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2024/agricultural-technology-predictions.html → Trusted? False
+ Discarded: https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2024/agricultural-technology-predictions.html → Untrusted domain
+ Checking link: https://unfccc.int/sites/default/files/resource/Australias_LTS_WEB.pdf → Trusted? False
+ Discarded: https://unfccc.int/sites/default/files/resource/Australias_LTS_WEB.pdf → Untrusted domain
+ Checking link: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-issues-paper_0.pdf → Trusted? False
+ Discarded: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-issues-paper_0.pdf → Untrusted domain
+ Checking link: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-telstra-submission.pdf → Trusted? False
+ Discarded: https://www.infrastructure.gov.au/sites/default/files/documents/rtirc-2024-telstra-submission.pdf → Untrusted domain
+ Checking link: https://www.arc.gov.au/sites/default/files/2024-08/DE25_NIT_statements_08262024.pdf → Trusted? False
+ Discarded: https://www.arc.gov.au/sites/default/files/2024-08/DE25_NIT_statements_08262024.pdf → Untrusted domain
+ Checking link: https://www.health.gov.au/sites/default/files/documents/2021/12/national-preventive-health-strategy-2021-2030_1.pdf → Trusted? False
+ Discarded: https://www.health.gov.au/sites/default/files/documents/2021/12/national-preventive-health-strategy-2021-2030_1.pdf → Untrusted domain
+ Checking link: https://www.liveperson.com/ → Trusted? False
+ Discarded: https://www.liveperson.com/ → Untrusted domain
+ Checking link: https://au.linkedin.com/in/michelle-howie-energy → Trusted? False
+ Discarded: https://au.linkedin.com/in/michelle-howie-energy → Untrusted domain
+ Checking link: https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/20212024-Quadrennial-Supply-Chain-Review.pdf → Trusted? False
+ Discarded: https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/20212024-Quadrennial-Supply-Chain-Review.pdf → Untrusted domain
+ Checking link: https://electricvehiclecouncil.com.au/members/ → Trusted? False
+ Discarded: https://electricvehiclecouncil.com.au/members/ → Untrusted domain
+ Checking link: https://www.res-group.com/us/about-us/ → Trusted? False
+ Discarded: https://www.res-group.com/us/about-us/ → Untrusted domain
+ Checking link: https://www.niaa.gov.au/sites/default/files/documents/publications/first-nations-digital-inclusion-plan-2023-2026_0.pdf → Trusted? False
+ Discarded: https://www.niaa.gov.au/sites/default/files/documents/publications/first-nations-digital-inclusion-plan-2023-2026_0.pdf → Untrusted domain
+ Checking link: https://www.bain.com/insights/the-power-of-flexibility/ → Trusted? False
+ Discarded: https://www.bain.com/insights/the-power-of-flexibility/ → Untrusted domain
+ Checking link: https://www.sciencedirect.com/science/article/pii/S2773207X24001386 → Trusted? False
+ Discarded: https://www.sciencedirect.com/science/article/pii/S2773207X24001386 → Untrusted domain
+
+ Telstra Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-g/telstra-annual-report-2024.pdf → Trusted? True
+ Checking link: https://investors.newscorp.com/static-files/3e47bb14-f93c-4358-8118-78c0945c9124 → Trusted? False
+ Discarded: https://investors.newscorp.com/static-files/3e47bb14-f93c-4358-8118-78c0945c9124 → Untrusted domain
+ Checking link: https://www.rba.gov.au/education/resources/explainers/australia-and-the-global-economy.html → Trusted? False
+ Discarded: https://www.rba.gov.au/education/resources/explainers/australia-and-the-global-economy.html → Untrusted domain
+ Checking link: https://www.thalesgroup.com/en/markets/digital-identity-and-security/mobile/packaging → Trusted? False
+ Discarded: https://www.thalesgroup.com/en/markets/digital-identity-and-security/mobile/packaging → Untrusted domain
+ Checking link: https://sdgalign.com.au/blog/ → Trusted? False
+ Discarded: https://sdgalign.com.au/blog/ → Untrusted domain
+ Checking link: https://www.dcceew.gov.au/sites/default/files/documents/enabling-design-environmental-good-sub-report-cross-cutting-levers_0.pdf → Trusted? False
+ Discarded: https://www.dcceew.gov.au/sites/default/files/documents/enabling-design-environmental-good-sub-report-cross-cutting-levers_0.pdf → Untrusted domain
+ Checking link: https://www.barrierreef.org/the-reef/the-value → Trusted? False
+ Discarded: https://www.barrierreef.org/the-reef/the-value → Untrusted domain
+ Checking link: https://www.accc.gov.au/system/files/annual-report-2023-24.pdf → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/annual-report-2023-24.pdf → Untrusted domain
+ Checking link: https://www.dcceew.gov.au/environment/international/nature-positive-summit → Trusted? False
+ Discarded: https://www.dcceew.gov.au/environment/international/nature-positive-summit → Untrusted domain
+ Checking link: https://www.brambles.com/Content/cms/FY24-Results/pdf/Brambles_2024_Annual_Report.pdf → Trusted? False
+ Discarded: https://www.brambles.com/Content/cms/FY24-Results/pdf/Brambles_2024_Annual_Report.pdf → Untrusted domain
+ Checking link: https://blogs.microsoft.com/blog/2025/03/10/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/ → Trusted? False
+ Discarded: https://blogs.microsoft.com/blog/2025/03/10/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/ → Untrusted domain
+ Checking link: https://www.apidays.global/australia/ → Trusted? False
+ Discarded: https://www.apidays.global/australia/ → Untrusted domain
+ Checking link: https://medium.com/code-club-australia/talking-rubbish-a-moonhack-2024-project-a02f6730b373 → Trusted? False
+ Discarded: https://medium.com/code-club-australia/talking-rubbish-a-moonhack-2024-project-a02f6730b373 → Untrusted domain
+ Checking link: https://www.lexisnexis.com/en-au/products/practical-guidance/latest-legal-updates/consumer-law → Trusted? False
+ Discarded: https://www.lexisnexis.com/en-au/products/practical-guidance/latest-legal-updates/consumer-law → Untrusted domain
+ Checking link: https://guidance.cdp.net/en/guidance?cid=46&ctype=theme&idtype=ThemeID&incchild=1&microsite=0&otype=Questionnaire&tags=TAG-13071%2CTAG-605%2CTAG-599 → Trusted? False
+ Discarded: https://guidance.cdp.net/en/guidance?cid=46&ctype=theme&idtype=ThemeID&incchild=1&microsite=0&otype=Questionnaire&tags=TAG-13071%2CTAG-605%2CTAG-599 → Untrusted domain
+ Checking link: https://www.u-blox.com/docs/UBX-16029218 → Trusted? False
+ Discarded: https://www.u-blox.com/docs/UBX-16029218 → Untrusted domain
+ Checking link: https://www.atlassian.com/software/confluence → Trusted? False
+ Discarded: https://www.atlassian.com/software/confluence → Untrusted domain
+ Checking link: https://au.linkedin.com/in/christa-fieldsend-829b323a → Trusted? False
+ Discarded: https://au.linkedin.com/in/christa-fieldsend-829b323a → Untrusted domain
+ Checking link: https://www.bhp.com/-/media/documents/investors/annual-reports/2024/240827_bhpannualreport2024.pdf → Trusted? False
+ Discarded: https://www.bhp.com/-/media/documents/investors/annual-reports/2024/240827_bhpannualreport2024.pdf → Untrusted domain
+ Checking link: https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/ASX_SSM_2022.pdf → Trusted? False
+ Discarded: https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/ASX_SSM_2022.pdf → Untrusted domain
+
+ Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+ Checking link: https://www.apec.org/docs/default-source/Publications/2020/3/Regulations-Policies-and-Initiatives-on-E-Commerce-and-Digital-Economy/220ECSGRegulations-Policies-and-Initiatives-on-ECommerce-and-Digital-Economy-for-APEC-MSMEs-Particip.pdf → Trusted? False
+ Discarded: https://www.apec.org/docs/default-source/Publications/2020/3/Regulations-Policies-and-Initiatives-on-E-Commerce-and-Digital-Economy/220ECSGRegulations-Policies-and-Initiatives-on-ECommerce-and-Digital-Economy-for-APEC-MSMEs-Particip.pdf → Untrusted domain
+ Checking link: https://www.nbr.org/wp-content/uploads/pdfs/publications/sr116_us-japan_technology_feb2025.pdf → Trusted? False
+ Discarded: https://www.nbr.org/wp-content/uploads/pdfs/publications/sr116_us-japan_technology_feb2025.pdf → Untrusted domain
+ Checking link: https://core.unesco.org/en/projects → Trusted? False
+ Discarded: https://core.unesco.org/en/projects → Untrusted domain
+ Checking link: https://eprints.gla.ac.uk/221575/1/221575.pdf → Trusted? False
+ Discarded: https://eprints.gla.ac.uk/221575/1/221575.pdf → Untrusted domain
+ Checking link: https://www.edo.org.au/wp-content/uploads/2022/06/APEEL-Technical-Papers-1-8-Compilation.pdf → Trusted? False
+ Discarded: https://www.edo.org.au/wp-content/uploads/2022/06/APEEL-Technical-Papers-1-8-Compilation.pdf → Untrusted domain
+ Checking link: https://www.fcc.gov/stage/pdf/Berkman_Center_Broadband_Study_13Oct09.pdf → Trusted? False
+ Discarded: https://www.fcc.gov/stage/pdf/Berkman_Center_Broadband_Study_13Oct09.pdf → Untrusted domain
+ Checking link: https://www.coliseum-online.com/76ers-reveal-plan-for-philadelphia-arena/ → Trusted? False
+ Discarded: https://www.coliseum-online.com/76ers-reveal-plan-for-philadelphia-arena/ → Untrusted domain
+ Checking link: https://www.mckinsey.com/~/media/mckinsey/industries/technology%20media%20and%20telecommunications/telecommunications/our%20insights/connected%20world%20an%20evolution%20in%20connectivity%20beyond%20the%205g%20revolution/mgi_connected-world_discussion-paper_february-2020.pdf → Trusted? False
+ Discarded: https://www.mckinsey.com/~/media/mckinsey/industries/technology%20media%20and%20telecommunications/telecommunications/our%20insights/connected%20world%20an%20evolution%20in%20connectivity%20beyond%20the%205g%20revolution/mgi_connected-world_discussion-paper_february-2020.pdf → Untrusted domain
+ Checking link: https://howardpartners.com.au/wp-content/uploads/2023/01/Challenges-for-Australian-Research-and-Innovation.pdf → Trusted? False
+ Discarded: https://howardpartners.com.au/wp-content/uploads/2023/01/Challenges-for-Australian-Research-and-Innovation.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/frankarr → Trusted? False
+ Discarded: https://au.linkedin.com/in/frankarr → Untrusted domain
+ Checking link: https://www.eoportal.org/satellite-missions/oneweb → Trusted? False
+ Discarded: https://www.eoportal.org/satellite-missions/oneweb → Untrusted domain
+ Checking link: https://unesdoc.unesco.org/ark:/48223/pf0000391185.locale=en → Trusted? False
+ Discarded: https://unesdoc.unesco.org/ark:/48223/pf0000391185.locale=en → Untrusted domain
+ Checking link: https://neoen.com/app/uploads/2021/12/1588609378-neoen-urd-2019-ven2.pdf → Trusted? False
+ Discarded: https://neoen.com/app/uploads/2021/12/1588609378-neoen-urd-2019-ven2.pdf → Untrusted domain
+ Checking link: https://www.annualreports.com/HostedData/AnnualReportArchive/s/south-east-water_2020.pdf → Trusted? False
+ Discarded: https://www.annualreports.com/HostedData/AnnualReportArchive/s/south-east-water_2020.pdf → Untrusted domain
+ Checking link: https://www.accc.gov.au/system/files/Network%20December%202022.pdf → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/Network%20December%202022.pdf → Untrusted domain
+ Checking link: https://www.cbd.int/doc/nr/nr-06/pg-nr-06-en.pdf → Trusted? False
+ Discarded: https://www.cbd.int/doc/nr/nr-06/pg-nr-06-en.pdf → Untrusted domain
+ Checking link: https://pacificecommerce.org/wp-content/uploads/2024/05/Digital-Ecosystem-Country-Assessment_Pacific-Countries_USAID.pdf → Trusted? False
+ Discarded: https://pacificecommerce.org/wp-content/uploads/2024/05/Digital-Ecosystem-Country-Assessment_Pacific-Countries_USAID.pdf → Untrusted domain
+ Checking link: https://www.stadiumbusinesssummit.com/ → Trusted? False
+ Discarded: https://www.stadiumbusinesssummit.com/ → Untrusted domain
+ Checking link: https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-23-000021/0000050863-23-000021.pdf → Trusted? False
+ Discarded: https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-23-000021/0000050863-23-000021.pdf → Untrusted domain
+ Checking link: https://www.jbic.go.jp/en/information/image/2023E_m00_full.pdf → Trusted? False
+ Discarded: https://www.jbic.go.jp/en/information/image/2023E_m00_full.pdf → Untrusted domain
+ Checking link: https://www.ltts.com/ → Trusted? False
+ Discarded: https://www.ltts.com/ → Untrusted domain
+ Checking link: https://www.gmfus.org/sites/default/files/2021-12/2018%20TUPP%20Report.pdf → Trusted? False
+ Discarded: https://www.gmfus.org/sites/default/files/2021-12/2018%20TUPP%20Report.pdf → Untrusted domain
+ Checking link: https://sportnxt.org/ → Trusted? False
+ Discarded: https://sportnxt.org/ → Untrusted domain
+ Checking link: https://www.mangrovealliance.org/wp-content/uploads/2019/11/Tangled-Roots-and-Changing-Tides.pdf → Trusted? False
+ Discarded: https://www.mangrovealliance.org/wp-content/uploads/2019/11/Tangled-Roots-and-Changing-Tides.pdf → Untrusted domain
+ Checking link: https://www.uscc.gov/sites/default/files/2025-03/March_20_2025_Hearing_Transcript.pdf → Trusted? False
+ Discarded: https://www.uscc.gov/sites/default/files/2025-03/March_20_2025_Hearing_Transcript.pdf → Untrusted domain
+
+ Telstra Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: Telstra Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+ Checking link: https://natsiwa.org.au/docman/newsletters/62-march-2024/file → Trusted? False
+ Discarded: https://natsiwa.org.au/docman/newsletters/62-march-2024/file → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-In-focus-Sustainability-at-Telstra-Remediated.pdf → Trusted? True
+ Checking link: https://www.fionawoodfoundation.org.au/fionawoodfoundation/media/documents/fwf-2024-annual-report.pdf → Trusted? False
+ Discarded: https://www.fionawoodfoundation.org.au/fionawoodfoundation/media/documents/fwf-2024-annual-report.pdf → Untrusted domain
+ Checking link: https://radioinfo.com.au/news/sustainability-activities-deliver-cost-savings-and-transmitter-efficiency-radiodaysasia/ → Trusted? False
+ Discarded: https://radioinfo.com.au/news/sustainability-activities-deliver-cost-savings-and-transmitter-efficiency-radiodaysasia/ → Untrusted domain
+ Checking link: https://risewib.com/about → Trusted? False
+ Discarded: https://risewib.com/about → Untrusted domain
+ Checking link: https://www.gihub.org/connectivity-across-borders/case-studies/coral-sea-cable-system/ → Trusted? False
+ Discarded: https://www.gihub.org/connectivity-across-borders/case-studies/coral-sea-cable-system/ → Untrusted domain
+ Checking link: https://www2.deloitte.com/content/dam/Deloitte/my/Documents/risk/my-risk-sdg5-women-in-the-boardroom-a-global-perspective.pdf → Trusted? False
+ Discarded: https://www2.deloitte.com/content/dam/Deloitte/my/Documents/risk/my-risk-sdg5-women-in-the-boardroom-a-global-perspective.pdf → Untrusted domain
+ Checking link: https://www.dca.org.au/wp-content/uploads/2024/06/DCA-2023-Annual-Report-Online.pdf → Trusted? False
+ Discarded: https://www.dca.org.au/wp-content/uploads/2024/06/DCA-2023-Annual-Report-Online.pdf → Untrusted domain
+ Checking link: https://www.telstrahealth.com/wp-content/uploads/2024/03/Brilliant-Women-in-Digital-Health-Awards-2022-Report.pdf → Trusted? True
+ Checking link: https://www.linkedin.com/posts/divpillay_telstrabestofbusiness-acceleratingwomen-activity-7268039964724998145-d_Ot → Trusted? False
+ Discarded: https://www.linkedin.com/posts/divpillay_telstrabestofbusiness-acceleratingwomen-activity-7268039964724998145-d_Ot → Untrusted domain
+ Checking link: https://au.linkedin.com/in/rebecca-kear-23943bb5 → Trusted? False
+ Discarded: https://au.linkedin.com/in/rebecca-kear-23943bb5 → Untrusted domain
+ Checking link: https://australianyouthdigitalindex.com/wp-content/uploads/2024/11/AYDI-Report_Landscape_T_FA.pdf → Trusted? False
+ Discarded: https://australianyouthdigitalindex.com/wp-content/uploads/2024/11/AYDI-Report_Landscape_T_FA.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/jennifer-wittwer → Trusted? False
+ Discarded: https://au.linkedin.com/in/jennifer-wittwer → Untrusted domain
+
+ Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Telstra Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+ Checking link: https://www.bendigo.vic.gov.au/sites/default/files/2024-03/City-Greater-Bendigo-Council-Meeting-March-25-2024-Agenda.pdf → Trusted? False
+ Discarded: https://www.bendigo.vic.gov.au/sites/default/files/2024-03/City-Greater-Bendigo-Council-Meeting-March-25-2024-Agenda.pdf → Untrusted domain
+ Checking link: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2024.pdf → Trusted? False
+ Discarded: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2024.pdf → Untrusted domain
+ Checking link: https://archive.budget.gov.au/2023-24/myefo/download/myefo2023-24.pdf → Trusted? False
+ Discarded: https://archive.budget.gov.au/2023-24/myefo/download/myefo2023-24.pdf → Untrusted domain
+ Checking link: https://regionaldevelopmentsa.com.au/wp-content/uploads/2024/02/RDSA-2023-Infrastructure-Prioritisation-Report_Final_Compressed.pdf → Trusted? False
+ Discarded: https://regionaldevelopmentsa.com.au/wp-content/uploads/2024/02/RDSA-2023-Infrastructure-Prioritisation-Report_Final_Compressed.pdf → Untrusted domain
+ Checking link: https://nqphn.com.au/sites/default/files/2024-02/national-digital-health-strategy-2023-2028.pdf → Trusted? False
+ Discarded: https://nqphn.com.au/sites/default/files/2024-02/national-digital-health-strategy-2023-2028.pdf → Untrusted domain
+ Checking link: https://www.energyq.com.au/__data/assets/pdf_file/0011/1118828/Energy-Queensland-Ltd-Annual-Report-2022-23.pdf.pdf → Trusted? False
+ Discarded: https://www.energyq.com.au/__data/assets/pdf_file/0011/1118828/Energy-Queensland-Ltd-Annual-Report-2022-23.pdf.pdf → Untrusted domain
+ Checking link: https://www.basscoast.vic.gov.au/assets/general-images/Economic-Development-and-Tourism/2030-Economic-Development-Framework.pdf → Trusted? False
+ Discarded: https://www.basscoast.vic.gov.au/assets/general-images/Economic-Development-and-Tourism/2030-Economic-Development-Framework.pdf → Untrusted domain
+ Checking link: https://www.treasury.sa.gov.au/__data/assets/pdf_file/0009/914670/2023-24-Budget-Statement.pdf → Trusted? False
+ Discarded: https://www.treasury.sa.gov.au/__data/assets/pdf_file/0009/914670/2023-24-Budget-Statement.pdf → Untrusted domain
+
+ Telstra Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: Telstra Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+ Checking link: https://stewardshipexcellence.com.au/wp-content/uploads/2024/07/PSCoE-Forum-2024-Communique-FINAL.pdf → Trusted? False
+ Discarded: https://stewardshipexcellence.com.au/wp-content/uploads/2024/07/PSCoE-Forum-2024-Communique-FINAL.pdf → Untrusted domain
+ Checking link: https://www.dcceew.gov.au/sites/default/files/documents/enabling-design-environmental-good-sub-report-electronic-goods_0.pdf → Trusted? False
+ Discarded: https://www.dcceew.gov.au/sites/default/files/documents/enabling-design-environmental-good-sub-report-electronic-goods_0.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-2022-Sustainability-Report_Accessible-Remediated.pdf → Trusted? True
+ Checking link: https://www.reddit.com/r/nbn/comments/179xyzo/what_happened_to_nbn_does_this_story_sound_right/ → Trusted? False
+ Discarded: https://www.reddit.com/r/nbn/comments/179xyzo/what_happened_to_nbn_does_this_story_sound_right/ → Untrusted domain
+ Checking link: https://www.accc.gov.au/system/files/TelSoc%20-%20supporting%20submission%20-%20Towards%20a%20National%20Broadband%20Strategy%202020-2030-release.pdf?ref=0&download=y → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/TelSoc%20-%20supporting%20submission%20-%20Towards%20a%20National%20Broadband%20Strategy%202020-2030-release.pdf?ref=0&download=y → Untrusted domain
+ Checking link: https://investors.newscorp.com/static-files/548ea427-f0ec-40ae-8359-d49207151d14 → Trusted? False
+ Discarded: https://investors.newscorp.com/static-files/548ea427-f0ec-40ae-8359-d49207151d14 → Untrusted domain
+ Checking link: https://unglobalcompact.org.au/wp-content/uploads/2024/04/2024.04.17-UNGCNA-Impact-Report-2023.pdf → Trusted? False
+ Discarded: https://unglobalcompact.org.au/wp-content/uploads/2024/04/2024.04.17-UNGCNA-Impact-Report-2023.pdf → Untrusted domain
+ Checking link: https://www.fwc.gov.au/conduct → Trusted? False
+ Discarded: https://www.fwc.gov.au/conduct → Untrusted domain
+ Checking link: https://www.acma.gov.au/sites/default/files/2021-12/Trends%20and%20developments%20in%20telecommunications%202020-21_0.pdf → Trusted? False
+ Discarded: https://www.acma.gov.au/sites/default/files/2021-12/Trends%20and%20developments%20in%20telecommunications%202020-21_0.pdf → Untrusted domain
+
+ Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Telstra Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+ Checking link: https://www.cutter.com/article/agile-adaptive-voices-c-suite-jeff-smith-former-ibm-suncorp-cio → Trusted? False
+ Discarded: https://www.cutter.com/article/agile-adaptive-voices-c-suite-jeff-smith-former-ibm-suncorp-cio → Untrusted domain
+ Checking link: https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1049&context=iasdr → Trusted? False
+ Discarded: https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1049&context=iasdr → Untrusted domain
+ Checking link: https://globalpactenvironment.org/uploads/Aguila-Vinuales-A-Global-Pact-for-the-Environment-Cambridge-Report-March-2019.pdf → Trusted? False
+ Discarded: https://globalpactenvironment.org/uploads/Aguila-Vinuales-A-Global-Pact-for-the-Environment-Cambridge-Report-March-2019.pdf → Untrusted domain
+ Checking link: https://spap.jst.go.jp/investigation/downloads/2022_rr_08_en.pdf → Trusted? False
+ Discarded: https://spap.jst.go.jp/investigation/downloads/2022_rr_08_en.pdf → Untrusted domain
+ Checking link: https://www.ceenrg.landecon.cam.ac.uk/system/files/documents/AguilaVinualesAGlobalPactfortheEnvironmentCambridgeReportMarch2019.pdf → Trusted? False
+ Discarded: https://www.ceenrg.landecon.cam.ac.uk/system/files/documents/AguilaVinualesAGlobalPactfortheEnvironmentCambridgeReportMarch2019.pdf → Untrusted domain
+ Checking link: https://www.energy.nsw.gov.au/sites/default/files/2022-09/employment-skills-and-supply-chains-renewable-energy-in-nsw-final-report.pdf → Trusted? False
+ Discarded: https://www.energy.nsw.gov.au/sites/default/files/2022-09/employment-skills-and-supply-chains-renewable-energy-in-nsw-final-report.pdf → Untrusted domain
+ Checking link: https://www.junee.nsw.gov.au/wp-content/uploads/2024/08/2024_August_Ordinary_Business_Paper.pdf → Trusted? False
+ Discarded: https://www.junee.nsw.gov.au/wp-content/uploads/2024/08/2024_August_Ordinary_Business_Paper.pdf → Untrusted domain
+ Checking link: https://connectingfromtheskies.com/ → Trusted? False
+ Discarded: https://connectingfromtheskies.com/ → Untrusted domain
+
+ Optus Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: Optus Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: Optus Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: Optus Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+ Checking link: https://www.linkedin.com/posts/virginia-toyi-0a109423a_environmentaljustice-racialequity-inclusionmatters-activity-7279846633628962816-3fxW → Trusted? False
+ Discarded: https://www.linkedin.com/posts/virginia-toyi-0a109423a_environmentaljustice-racialequity-inclusionmatters-activity-7279846633628962816-3fxW → Untrusted domain
+ Checking link: https://wit.org.au/awards/2023-award-finalists/ → Trusted? False
+ Discarded: https://wit.org.au/awards/2023-award-finalists/ → Untrusted domain
+ Checking link: https://www.esafety.gov.au/sites/default/files/2024-10/ACMA-eSafety-annual-report-2023-24.pdf?v=1741219200031 → Trusted? False
+ Discarded: https://www.esafety.gov.au/sites/default/files/2024-10/ACMA-eSafety-annual-report-2023-24.pdf?v=1741219200031 → Untrusted domain
+ Checking link: https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1428&context=umiclr → Trusted? False
+ Discarded: https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1428&context=umiclr → Untrusted domain
+ Checking link: https://au.linkedin.com/in/peter-kranz-34aa8849 → Trusted? False
+ Discarded: https://au.linkedin.com/in/peter-kranz-34aa8849 → Untrusted domain
+ Checking link: https://www.jcu.edu.au/__data/assets/pdf_file/0008/2217563/2023-Sustainability-Report_FULL.pdf → Trusted? False
+ Discarded: https://www.jcu.edu.au/__data/assets/pdf_file/0008/2217563/2023-Sustainability-Report_FULL.pdf → Untrusted domain
+ Checking link: https://en.wikipedia.org/wiki/2023_FIFA_Women%27s_World_Cup → Trusted? False
+ Discarded: https://en.wikipedia.org/wiki/2023_FIFA_Women%27s_World_Cup → Untrusted domain
+ Checking link: https://s202.q4cdn.com/805890769/files/doc_downloads/global-impact/PayPal-2021-Global-Impact-Report.pdf → Trusted? False
+ Discarded: https://s202.q4cdn.com/805890769/files/doc_downloads/global-impact/PayPal-2021-Global-Impact-Report.pdf → Untrusted domain
+ Checking link: https://www.cisc.gov.au/how-we-support-industry/events-and-outreach/cyber-and-infrastructure-security-conference-2023 → Trusted? False
+ Discarded: https://www.cisc.gov.au/how-we-support-industry/events-and-outreach/cyber-and-infrastructure-security-conference-2023 → Untrusted domain
+ Checking link: https://www.optus.com.au/content/dam/optus/documents/about-us/sustainability/reporting/2021/Optus-Sustainability-Report-FY2021.pdf → Trusted? True
+ Checking link: https://unwomen.org.au/wp-content/uploads/2023/08/UNWomenAust_AnnualReport22_FINAL_web.pdf → Trusted? False
+ Discarded: https://unwomen.org.au/wp-content/uploads/2023/08/UNWomenAust_AnnualReport22_FINAL_web.pdf → Untrusted domain
+ Checking link: https://www.bnymellon.com/content/dam/bnymellon/documents/pdf/2023-sustainability-report.pdf → Trusted? False
+ Discarded: https://www.bnymellon.com/content/dam/bnymellon/documents/pdf/2023-sustainability-report.pdf → Untrusted domain
+ Checking link: https://s205.q4cdn.com/210152132/files/doc_downloads/2023/05/2022-Global-Impact-Report_FINAL-73.pdf → Trusted? False
+ Discarded: https://s205.q4cdn.com/210152132/files/doc_downloads/2023/05/2022-Global-Impact-Report_FINAL-73.pdf → Untrusted domain
+ Checking link: https://www.footballaustralia.com.au/sites/ffa/files/2023-12/20484_FA_Annual%20Review_2023_Final_Low%20Res_Interactive-compressed.pdf → Trusted? False
+ Discarded: https://www.footballaustralia.com.au/sites/ffa/files/2023-12/20484_FA_Annual%20Review_2023_Final_Low%20Res_Interactive-compressed.pdf → Untrusted domain
+ Checking link: https://issuu.com/unwomen-nc-australia/docs/unwomenaust_annualreport22_final_web → Trusted? False
+ Discarded: https://issuu.com/unwomen-nc-australia/docs/unwomenaust_annualreport22_final_web → Untrusted domain
+ Checking link: https://www.apidays.global/paris/ → Trusted? False
+ Discarded: https://www.apidays.global/paris/ → Untrusted domain
+ Checking link: https://www.optus.com.au/content/dam/optus/documents/about-us/sustainability/reporting/2020/Optus-Sustainability-Report-FY2020.pdf → Trusted? True
+ Checking link: https://media.aws.singtel.com/info-singtel/sr2024/Singtel-Group-Sustainability-Report-2024.pdf → Trusted? False
+ Discarded: https://media.aws.singtel.com/info-singtel/sr2024/Singtel-Group-Sustainability-Report-2024.pdf → Untrusted domain
+ Checking link: https://www.wgea.gov.au/publications/australias-gender-equality-scorecard → Trusted? False
+ Discarded: https://www.wgea.gov.au/publications/australias-gender-equality-scorecard → Untrusted domain
+ Checking link: https://womenrisingco.com/reviews-3/ → Trusted? False
+ Discarded: https://womenrisingco.com/reviews-3/ → Untrusted domain
+ Checking link: https://www.arc.gov.au/sites/default/files/2024-11/LP24R1_nit%20statements.pdf → Trusted? False
+ Discarded: https://www.arc.gov.au/sites/default/files/2024-11/LP24R1_nit%20statements.pdf → Untrusted domain
+ Checking link: https://www.bny.com/assets/corporate/documents/pdf/csr/2022-esg-report.pdf → Trusted? False
+ Discarded: https://www.bny.com/assets/corporate/documents/pdf/csr/2022-esg-report.pdf → Untrusted domain
+ Checking link: https://www.facebook.com/mayler.co/ → Trusted? False
+ Discarded: https://www.facebook.com/mayler.co/ → Untrusted domain
+ Checking link: https://staffprofiles.bournemouth.ac.uk/display/kdparry → Trusted? False
+ Discarded: https://staffprofiles.bournemouth.ac.uk/display/kdparry → Untrusted domain
+ Checking link: https://the-hatchery.co/event/women-in-leadership-summit-nsw-feb-2025/ → Trusted? False
+ Discarded: https://the-hatchery.co/event/women-in-leadership-summit-nsw-feb-2025/ → Untrusted domain
+ Checking link: https://cdn.aws.singtel.com/sustainabilityreport/2023/download/02-download-files/1-Full%20Report/Singtel-Group-Sustainability-Report-2023.pdf → Trusted? False
+ Discarded: https://cdn.aws.singtel.com/sustainabilityreport/2023/download/02-download-files/1-Full%20Report/Singtel-Group-Sustainability-Report-2023.pdf → Untrusted domain
+ Checking link: https://www.unstereotypealliance.org/sites/default/files/2023-12/ANNUAL%20REPORT%202022.pdf → Trusted? False
+ Discarded: https://www.unstereotypealliance.org/sites/default/files/2023-12/ANNUAL%20REPORT%202022.pdf → Untrusted domain
+
+ Optus Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Optus Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Optus Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: Optus Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+ Checking link: https://www.worldsbestcities.com/rankings/worlds-best-cities/ → Trusted? False
+ Discarded: https://www.worldsbestcities.com/rankings/worlds-best-cities/ → Untrusted domain
+ Checking link: https://www.govinfo.gov/content/pkg/FR-2025-02-28/pdf/FR-2025-02-28.pdf → Trusted? False
+ Discarded: https://www.govinfo.gov/content/pkg/FR-2025-02-28/pdf/FR-2025-02-28.pdf → Untrusted domain
+ Checking link: https://www.aquinas.wa.edu.au/news/academics/p6 → Trusted? False
+ Discarded: https://www.aquinas.wa.edu.au/news/academics/p6 → Untrusted domain
+ Checking link: https://au.linkedin.com/in/ricky-corker → Trusted? False
+ Discarded: https://au.linkedin.com/in/ricky-corker → Untrusted domain
+ Checking link: https://www.csiro.au/-/media/Do-Business/Files/Futures/23-00033_SER-FUT_REPORT_RenewableEnergyStorageRoadmap_WEB_230310.pdf → Trusted? False
+ Discarded: https://www.csiro.au/-/media/Do-Business/Files/Futures/23-00033_SER-FUT_REPORT_RenewableEnergyStorageRoadmap_WEB_230310.pdf → Untrusted domain
+ Checking link: https://treasury.gov.au/sites/default/files/2023-06/p2023-404960.pdf → Trusted? False
+ Discarded: https://treasury.gov.au/sites/default/files/2023-06/p2023-404960.pdf → Untrusted domain
+ Checking link: https://www.airbus.com/sites/g/files/jlcbta136/files/2025-02/airbus_report_of_the_board_of_directors_2024.pdf → Trusted? False
+ Discarded: https://www.airbus.com/sites/g/files/jlcbta136/files/2025-02/airbus_report_of_the_board_of_directors_2024.pdf → Untrusted domain
+ Checking link: https://www.iafastro.org/news/iaf-symposium-2025-report-is-now-available.html → Trusted? False
+ Discarded: https://www.iafastro.org/news/iaf-symposium-2025-report-is-now-available.html → Untrusted domain
+ Checking link: https://www.gsma.com/mobileeconomy/wp-content/uploads/2024/02/260224-The-Mobile-Economy-2024.pdf → Trusted? False
+ Discarded: https://www.gsma.com/mobileeconomy/wp-content/uploads/2024/02/260224-The-Mobile-Economy-2024.pdf → Untrusted domain
+ Checking link: https://crcna.com.au/wp-content/uploads/2024/05/CRCNA-Report-Final-NA-Communications-Analysis-Directions-paper__July-2020.pdf → Trusted? False
+ Discarded: https://crcna.com.au/wp-content/uploads/2024/05/CRCNA-Report-Final-NA-Communications-Analysis-Directions-paper__July-2020.pdf → Untrusted domain
+ Checking link: https://www.unsw.edu.au/edi/sustainability-matters/sustainable-development-goals/sdg7 → Trusted? False
+ Discarded: https://www.unsw.edu.au/edi/sustainability-matters/sustainable-development-goals/sdg7 → Untrusted domain
+ Checking link: https://www.bnymellon.com/content/dam/bnymellon/documents/pdf/2021-enterprise-esg-report.pdf.coredownload.pdf → Trusted? False
+ Discarded: https://www.bnymellon.com/content/dam/bnymellon/documents/pdf/2021-enterprise-esg-report.pdf.coredownload.pdf → Untrusted domain
+ Checking link: https://cciwa.com/wp-content/uploads/2025/03/CCIWA-Gas-Report-March-2025.pdf → Trusted? False
+ Discarded: https://cciwa.com/wp-content/uploads/2025/03/CCIWA-Gas-Report-March-2025.pdf → Untrusted domain
+ Checking link: https://aiia.com.au/wp-content/uploads/2023/08/AIIA-Tech-and-Sustainability-White-Paper-2023.pdf → Trusted? False
+ Discarded: https://aiia.com.au/wp-content/uploads/2023/08/AIIA-Tech-and-Sustainability-White-Paper-2023.pdf → Untrusted domain
+ Checking link: https://www.espi.or.at/wp-content/uploads/2022/06/ESPI-Report-79-Emerging-Spacefaring-Nations-Full-Report.pdf → Trusted? False
+ Discarded: https://www.espi.or.at/wp-content/uploads/2022/06/ESPI-Report-79-Emerging-Spacefaring-Nations-Full-Report.pdf → Untrusted domain
+ Checking link: https://www.linkedin.com/in/marina-carroll → Trusted? False
+ Discarded: https://www.linkedin.com/in/marina-carroll → Untrusted domain
+ Checking link: https://www.wa.gov.au/system/files/2024-01/wa-mag-summer23-web.pdf → Trusted? False
+ Discarded: https://www.wa.gov.au/system/files/2024-01/wa-mag-summer23-web.pdf → Untrusted domain
+ Checking link: https://archive.budget.gov.au/2022-23-october/bp2/download/bp2_2022-23.pdf → Trusted? False
+ Discarded: https://archive.budget.gov.au/2022-23-october/bp2/download/bp2_2022-23.pdf → Untrusted domain
+ Checking link: https://www.jcu.edu.au/__data/assets/pdf_file/0005/2106419/JCU-Interim-Sustainability-Report_Final.pdf → Trusted? False
+ Discarded: https://www.jcu.edu.au/__data/assets/pdf_file/0005/2106419/JCU-Interim-Sustainability-Report_Final.pdf → Untrusted domain
+ Checking link: https://conference.unsw.edu.au/en/the-51st-international-conference-on-computers-and-industrial-engineering → Trusted? False
+ Discarded: https://conference.unsw.edu.au/en/the-51st-international-conference-on-computers-and-industrial-engineering → Untrusted domain
+
+ Optus Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: Optus Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: Optus Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: Optus Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+ Checking link: https://unu.edu/sites/default/files/2024-08/UNU_AI_ConferenceProceedingReport_0806.pdf → Trusted? False
+ Discarded: https://unu.edu/sites/default/files/2024-08/UNU_AI_ConferenceProceedingReport_0806.pdf → Untrusted domain
+ Checking link: https://assets-eu-01.kc-usercontent.com/54dbafb3-2008-0172-7e3d-74a0128faac8/e86295d6-1ac6-4d4b-bd91-70532642eb82/Sibelco%20Annual%20Report_2023_E_FINAL2.pdf → Trusted? False
+ Discarded: https://assets-eu-01.kc-usercontent.com/54dbafb3-2008-0172-7e3d-74a0128faac8/e86295d6-1ac6-4d4b-bd91-70532642eb82/Sibelco%20Annual%20Report_2023_E_FINAL2.pdf → Untrusted domain
+ Checking link: https://techcouncil.com.au/wp-content/uploads/2021/08/TCA-Tech-sectors-economic-contribution-full-res.pdf → Trusted? False
+ Discarded: https://techcouncil.com.au/wp-content/uploads/2021/08/TCA-Tech-sectors-economic-contribution-full-res.pdf → Untrusted domain
+ Checking link: https://assets.kpmg.com/content/dam/kpmg/au/pdf/2025/australian-retail-outlook-2025.pdf → Trusted? False
+ Discarded: https://assets.kpmg.com/content/dam/kpmg/au/pdf/2025/australian-retail-outlook-2025.pdf → Untrusted domain
+ Checking link: https://cdn.aws.singtel.com/sustainabilityreport/SR2024/download/downloads/Singtel-Group-SR2024-Sustainability-Approach.pdf → Trusted? False
+ Discarded: https://cdn.aws.singtel.com/sustainabilityreport/SR2024/download/downloads/Singtel-Group-SR2024-Sustainability-Approach.pdf → Untrusted domain
+ Checking link: https://www.accc.gov.au/system/files/Digital%20platforms%20services%20inquiry%20-%20Interim%20report%206%20-%20Report%20on%20social%20media%20services_0.pdf → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/Digital%20platforms%20services%20inquiry%20-%20Interim%20report%206%20-%20Report%20on%20social%20media%20services_0.pdf → Untrusted domain
+ Checking link: https://www.industry.gov.au/sites/default/files/2024-08/senate-order-13-2023-24-financial-year.pdf → Trusted? False
+ Discarded: https://www.industry.gov.au/sites/default/files/2024-08/senate-order-13-2023-24-financial-year.pdf → Untrusted domain
+ Checking link: https://cdn.aws.singtel.com/sustainabilityreport/2021/assets/pdf/downloads/Singtel-Group-SR2021-Overview.pdf → Trusted? False
+ Discarded: https://cdn.aws.singtel.com/sustainabilityreport/2021/assets/pdf/downloads/Singtel-Group-SR2021-Overview.pdf → Untrusted domain
+ Checking link: https://www.racefor2030.com.au/content/uploads/20.E2.F.0137-Green-Wave-Report_final-4.4.22.pdf → Trusted? False
+ Discarded: https://www.racefor2030.com.au/content/uploads/20.E2.F.0137-Green-Wave-Report_final-4.4.22.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/jp-alvarezgaitan → Trusted? False
+ Discarded: https://au.linkedin.com/in/jp-alvarezgaitan → Untrusted domain
+ Checking link: https://www.singtel.com/content/dam/singtel/about-us/sustainability/reports/Singtel-Group-Sustainability-Report-2022.pdf → Trusted? False
+ Discarded: https://www.singtel.com/content/dam/singtel/about-us/sustainability/reports/Singtel-Group-Sustainability-Report-2022.pdf → Untrusted domain
+ Checking link: https://www.itu.int/dms_pub/itu-d/opb/ind/d-ind-global.01-2022-pdf-e.pdf → Trusted? False
+ Discarded: https://www.itu.int/dms_pub/itu-d/opb/ind/d-ind-global.01-2022-pdf-e.pdf → Untrusted domain
+ Checking link: https://www.linkedin.com/in/stephen-pratt-6ab995255 → Trusted? False
+ Discarded: https://www.linkedin.com/in/stephen-pratt-6ab995255 → Untrusted domain
+ Checking link: https://www.airbus.com/sites/g/files/jlcbta136/files/2023-05/Airbus_SE_2022_Annual_Report.pdf → Trusted? False
+ Discarded: https://www.airbus.com/sites/g/files/jlcbta136/files/2023-05/Airbus_SE_2022_Annual_Report.pdf → Untrusted domain
+ Checking link: https://cleanenergycouncil.org.au/getmedia/0cb12425-37ab-479e-9a4b-529622cc9c02/clean-energy-australia-report-2024.pdf → Trusted? False
+ Discarded: https://cleanenergycouncil.org.au/getmedia/0cb12425-37ab-479e-9a4b-529622cc9c02/clean-energy-australia-report-2024.pdf → Untrusted domain
+
+ Optus Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Optus Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Optus Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: Optus Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+ Checking link: http://students.aiu.edu/submissions/profiles/resources/onlineBook/K7X9K5_International%20Management%20Culture%20Strategy%20and%20Behavior.pdf → Trusted? False
+ Discarded: http://students.aiu.edu/submissions/profiles/resources/onlineBook/K7X9K5_International%20Management%20Culture%20Strategy%20and%20Behavior.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/psingh3 → Trusted? False
+ Discarded: https://au.linkedin.com/in/psingh3 → Untrusted domain
+ Checking link: https://www.nyfadvertising.com/jury/index/2a82c189-94d3-40d8-92d5-158f93e04a52 → Trusted? False
+ Discarded: https://www.nyfadvertising.com/jury/index/2a82c189-94d3-40d8-92d5-158f93e04a52 → Untrusted domain
+ Checking link: https://www.wilderness.org.au/images/resources/Final_WANativeVegReport.pdf → Trusted? False
+ Discarded: https://www.wilderness.org.au/images/resources/Final_WANativeVegReport.pdf → Untrusted domain
+ Checking link: https://www.annualreports.com/HostedData/AnnualReportArchive/s/south-east-water_2019.pdf → Trusted? False
+ Discarded: https://www.annualreports.com/HostedData/AnnualReportArchive/s/south-east-water_2019.pdf → Untrusted domain
+ Checking link: https://www.worldsbestcities.com/rankings/asia-pacifics-best-cities/ → Trusted? False
+ Discarded: https://www.worldsbestcities.com/rankings/asia-pacifics-best-cities/ → Untrusted domain
+ Checking link: https://issuu.com/rjkennedy/docs/usbe_vol48_no1 → Trusted? False
+ Discarded: https://issuu.com/rjkennedy/docs/usbe_vol48_no1 → Untrusted domain
+ Checking link: https://www.energy.gov/sites/prod/files/2017/11/f46/fy18ssmp_final_november_2017%5B1%5D_0.pdf → Trusted? False
+ Discarded: https://www.energy.gov/sites/prod/files/2017/11/f46/fy18ssmp_final_november_2017%5B1%5D_0.pdf → Untrusted domain
+ Checking link: https://www.griffith.edu.au/__data/assets/pdf_file/0033/727287/Griffith-Annual-Report-2018.pdf → Trusted? False
+ Discarded: https://www.griffith.edu.au/__data/assets/pdf_file/0033/727287/Griffith-Annual-Report-2018.pdf → Untrusted domain
+ Checking link: https://www.loteconsulting.com/news → Trusted? False
+ Discarded: https://www.loteconsulting.com/news → Untrusted domain
+ Checking link: https://www.linkedin.com/in/nora-khalid-b05085164 → Trusted? False
+ Discarded: https://www.linkedin.com/in/nora-khalid-b05085164 → Untrusted domain
+ Checking link: https://www.parliament.nsw.gov.au/tp/files/187233/Final%20-%202023.10.30%20-%20HRNSW%20Annual%20Report%202022-23%20-%20Full.pdf → Trusted? False
+ Discarded: https://www.parliament.nsw.gov.au/tp/files/187233/Final%20-%202023.10.30%20-%20HRNSW%20Annual%20Report%202022-23%20-%20Full.pdf → Untrusted domain
+ Checking link: https://uk.linkedin.com/in/michael-davies-4a51397 → Trusted? False
+ Discarded: https://uk.linkedin.com/in/michael-davies-4a51397 → Untrusted domain
+ Checking link: https://www.ustr.gov/sites/default/files/NTE%20Final%20Printed_0.pdf → Trusted? False
+ Discarded: https://www.ustr.gov/sites/default/files/NTE%20Final%20Printed_0.pdf → Untrusted domain
+ Checking link: https://www.wsc.nsw.gov.au/files/assets/public/v/1/council/meeting-minutes/2024/21-february/attachments-under-separate-cover-ordinary-meeting-of-council-21-february-2024.pdf → Trusted? False
+ Discarded: https://www.wsc.nsw.gov.au/files/assets/public/v/1/council/meeting-minutes/2024/21-february/attachments-under-separate-cover-ordinary-meeting-of-council-21-february-2024.pdf → Untrusted domain
+ Checking link: https://stadiumdb.com/news/2025 → Trusted? False
+ Discarded: https://stadiumdb.com/news/2025 → Untrusted domain
+ Checking link: https://www.ath.com.fj/wp-content/uploads/2023/12/ATH-2023-Annual-Report-FINAL-As-of-17-11-23.pdf → Trusted? False
+ Discarded: https://www.ath.com.fj/wp-content/uploads/2023/12/ATH-2023-Annual-Report-FINAL-As-of-17-11-23.pdf → Untrusted domain
+ Checking link: https://link.springer.com/content/pdf/10.1007/978-3-030-15281-9.pdf → Trusted? False
+ Discarded: https://link.springer.com/content/pdf/10.1007/978-3-030-15281-9.pdf → Untrusted domain
+ Checking link: https://www.safran-group.com/sites/default/files/2022-04/SAFR_DEU_2021_PRODUCTION_US_MEL.pdf → Trusted? False
+ Discarded: https://www.safran-group.com/sites/default/files/2022-04/SAFR_DEU_2021_PRODUCTION_US_MEL.pdf → Untrusted domain
+ Checking link: https://www.samenacouncil.org/samena_trends/files/SAMENA_Trends_February_March_2021.pdf → Trusted? False
+ Discarded: https://www.samenacouncil.org/samena_trends/files/SAMENA_Trends_February_March_2021.pdf → Untrusted domain
+ Checking link: https://integratedreporting.ifrs.org/wp-content/uploads/2017/04/Ayala-Corporation-Integrated-Report-2016-web.pdf → Trusted? False
+ Discarded: https://integratedreporting.ifrs.org/wp-content/uploads/2017/04/Ayala-Corporation-Integrated-Report-2016-web.pdf → Untrusted domain
+
+ Optus Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: Optus Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: Optus Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: Optus Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+ Checking link: https://www.homeaffairs.gov.au/multicultural-framework-review/Documents/report-summary/multicultural-framework-review-report-english.pdf → Trusted? False
+ Discarded: https://www.homeaffairs.gov.au/multicultural-framework-review/Documents/report-summary/multicultural-framework-review-report-english.pdf → Untrusted domain
+ Checking link: https://cdn.aws.singtel.com/sustainabilityreport/2024/download/downloads/Singtel-Group-SR2024-Social.pdf → Trusted? False
+ Discarded: https://cdn.aws.singtel.com/sustainabilityreport/2024/download/downloads/Singtel-Group-SR2024-Social.pdf → Untrusted domain
+ Checking link: https://www.unsw.edu.au/content/dam/pdfs/science/general/research-reports/2024-05-women-in-stem/2024-05-2023-Annual-Review.pdf → Trusted? False
+ Discarded: https://www.unsw.edu.au/content/dam/pdfs/science/general/research-reports/2024-05-women-in-stem/2024-05-2023-Annual-Review.pdf → Untrusted domain
+ Checking link: https://apac.bgis.com/wp-content/uploads/2024/10/BGIS-2023_ESGReport_Web.pdf → Trusted? False
+ Discarded: https://apac.bgis.com/wp-content/uploads/2024/10/BGIS-2023_ESGReport_Web.pdf → Untrusted domain
+ Checking link: https://www.footballaustralia.com.au/sites/ffa/files/2024-02/Legacy%20Post%20Tournament%20Report_A4_FA_%4096ppi_FINAL_22FEB2024.pdf → Trusted? False
+ Discarded: https://www.footballaustralia.com.au/sites/ffa/files/2024-02/Legacy%20Post%20Tournament%20Report_A4_FA_%4096ppi_FINAL_22FEB2024.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/elena-christophers-1543b617b → Trusted? False
+ Discarded: https://au.linkedin.com/in/elena-christophers-1543b617b → Untrusted domain
+ Checking link: https://www.aic.gov.au/sites/default/files/2024-10/crg_technology-facilitated_coercive_control_v7.pdf → Trusted? False
+ Discarded: https://www.aic.gov.au/sites/default/files/2024-10/crg_technology-facilitated_coercive_control_v7.pdf → Untrusted domain
+ Checking link: https://sustainabledevelopment.un.org/content/documents/9789CRT046599%20SDG_Financial%20Services_29sep_WEB-1.pdf → Trusted? False
+ Discarded: https://sustainabledevelopment.un.org/content/documents/9789CRT046599%20SDG_Financial%20Services_29sep_WEB-1.pdf → Untrusted domain
+ Checking link: https://www.thesmithfamily.com.au/-/media/files/about-us/our-finances/23-24-annual-report/annual-report-2023-2024.pdf → Trusted? False
+ Discarded: https://www.thesmithfamily.com.au/-/media/files/about-us/our-finances/23-24-annual-report/annual-report-2023-2024.pdf → Untrusted domain
+ Checking link: https://www.ooredoo.com/2022-annual-report/files/Ooredoo-AR-english.pdf → Trusted? False
+ Discarded: https://www.ooredoo.com/2022-annual-report/files/Ooredoo-AR-english.pdf → Untrusted domain
+ Checking link: https://awards.sportspro-ott.com/categories/shortlist-2023/ → Trusted? False
+ Discarded: https://awards.sportspro-ott.com/categories/shortlist-2023/ → Untrusted domain
+ Checking link: https://www.dcceew.gov.au/sites/default/files/documents/adaptation-communication.docx → Trusted? False
+ Discarded: https://www.dcceew.gov.au/sites/default/files/documents/adaptation-communication.docx → Untrusted domain
+ Checking link: https://wit.org.au/awards/2022-award-finalists/ → Trusted? False
+ Discarded: https://wit.org.au/awards/2022-award-finalists/ → Untrusted domain
+
+ Optus Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Optus Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Optus Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: Optus Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+ Checking link: https://www.acma.gov.au/sites/default/files/2023-07/What%20consumers%20want%20_Consumer%20expectations%20for%20telecommunications%20safeguards_ACMA%20position%20paper.pdf → Trusted? False
+ Discarded: https://www.acma.gov.au/sites/default/files/2023-07/What%20consumers%20want%20_Consumer%20expectations%20for%20telecommunications%20safeguards_ACMA%20position%20paper.pdf → Untrusted domain
+ Checking link: https://www.emrc.org.au/Profiles/emrc/Assets/ClientData/0042EMRC_-_SDG_Tech_Report_V4.pdf → Trusted? False
+ Discarded: https://www.emrc.org.au/Profiles/emrc/Assets/ClientData/0042EMRC_-_SDG_Tech_Report_V4.pdf → Untrusted domain
+ Checking link: https://iceds.anu.edu.au/files/Submission.%20Impact%20of%20Climate%20Risk%20on%20Insurance%20Premiums%20and%20Availability.PDF → Trusted? False
+ Discarded: https://iceds.anu.edu.au/files/Submission.%20Impact%20of%20Climate%20Risk%20on%20Insurance%20Premiums%20and%20Availability.PDF → Untrusted domain
+ Checking link: https://www.optus.com.au/content/dam/optus/documents/about-us/media-centre/annual-reports/2024/Singtel_Annual_Report_2024.pdf → Trusted? True
+ Checking link: https://www.tio.com.au/sites/default/files/2024-09/TIO%20Annual%20Report_2023-2024.pdf → Trusted? False
+ Discarded: https://www.tio.com.au/sites/default/files/2024-09/TIO%20Annual%20Report_2023-2024.pdf → Untrusted domain
+
+ Optus Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: Optus Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: Optus Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: Optus Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+ Checking link: https://dsb.gov.au/sites/dsb.gov.au/files/2024-11/report-patterns-in-the-dark.pdf → Trusted? False
+ Discarded: https://dsb.gov.au/sites/dsb.gov.au/files/2024-11/report-patterns-in-the-dark.pdf → Untrusted domain
+ Checking link: https://www.airbus.com/sites/g/files/jlcbta136/files/2024-03/Airbus-Annual-Report-2023.pdf → Trusted? False
+ Discarded: https://www.airbus.com/sites/g/files/jlcbta136/files/2024-03/Airbus-Annual-Report-2023.pdf → Untrusted domain
+ Checking link: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/more-guidance/guide-to-data-analytics-and-the-australian-privacy-principles → Trusted? False
+ Discarded: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/more-guidance/guide-to-data-analytics-and-the-australian-privacy-principles → Untrusted domain
+ Checking link: https://www.wa.gov.au/system/files/2024-10/twa-2018-19-annual-report.pdf → Trusted? False
+ Discarded: https://www.wa.gov.au/system/files/2024-10/twa-2018-19-annual-report.pdf → Untrusted domain
+ Checking link: https://www.itu.int/en/action/environment-and-climate-change/Documents/publications/2023/Scope-3-Guidance-2023.pdf → Trusted? False
+ Discarded: https://www.itu.int/en/action/environment-and-climate-change/Documents/publications/2023/Scope-3-Guidance-2023.pdf → Untrusted domain
+ Checking link: https://www.anz.com/content/dam/anzcom/shareholder/ANZ-Annual-Report-2023.pdf → Trusted? False
+ Discarded: https://www.anz.com/content/dam/anzcom/shareholder/ANZ-Annual-Report-2023.pdf → Untrusted domain
+ Checking link: https://www.aic.gov.au/sites/default/files/2023-06/sr43_cybercrime_in_australia_2023.pdf → Trusted? False
+ Discarded: https://www.aic.gov.au/sites/default/files/2023-06/sr43_cybercrime_in_australia_2023.pdf → Untrusted domain
+ Checking link: https://newscorp.com/app/uploads/2024/10/News-Corp-2024-Annual-Report_Bookmarked_sm-updated.pdf → Trusted? False
+ Discarded: https://newscorp.com/app/uploads/2024/10/News-Corp-2024-Annual-Report_Bookmarked_sm-updated.pdf → Untrusted domain
+
+ Optus Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Optus Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Optus Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: Optus Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+ Checking link: https://www.capel.wa.gov.au/Profiles/capel/Assets/ClientData/Document-Centre/Agendas_and_Minutes/2023/Ordinary_Council_Meeting_27_September_2023_Minutes_.pdf → Trusted? False
+ Discarded: https://www.capel.wa.gov.au/Profiles/capel/Assets/ClientData/Document-Centre/Agendas_and_Minutes/2023/Ordinary_Council_Meeting_27_September_2023_Minutes_.pdf → Untrusted domain
+ Checking link: https://www.ics.uci.edu/~dmdb/chandra/Enron2.1/words.txt → Trusted? False
+ Discarded: https://www.ics.uci.edu/~dmdb/chandra/Enron2.1/words.txt → Untrusted domain
+ Checking link: https://au.linkedin.com/in/mark-cutler-3510b826 → Trusted? False
+ Discarded: https://au.linkedin.com/in/mark-cutler-3510b826 → Untrusted domain
+
+ SBS (Special Broadcasting Service) Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 5. Achieve gender equality and empower all women and girls 2025 AU 
+ Checking link: https://www.unwomen.org/sites/default/files/2024-09/b30_report_australia_en.pdf → Trusted? False
+ Discarded: https://www.unwomen.org/sites/default/files/2024-09/b30_report_australia_en.pdf → Untrusted domain
+ Checking link: https://www.clearinghouseforsport.gov.au/kb/sexuality-and-gender-perspectives-on-sports-ethics → Trusted? False
+ Discarded: https://www.clearinghouseforsport.gov.au/kb/sexuality-and-gender-perspectives-on-sports-ethics → Untrusted domain
+ Checking link: https://www.appropriations.senate.gov/download/fy25-lhhs-senate-report → Trusted? False
+ Discarded: https://www.appropriations.senate.gov/download/fy25-lhhs-senate-report → Untrusted domain
+ Checking link: https://www.facebook.com/samoagovt/photos/reception-hosted-by-the-ambassador-of-china-he-fei-mingxing-in-celebration-of-th/1043396781156805/ → Trusted? False
+ Discarded: https://www.facebook.com/samoagovt/photos/reception-hosted-by-the-ambassador-of-china-he-fei-mingxing-in-celebration-of-th/1043396781156805/ → Untrusted domain
+ Checking link: https://en.wikipedia.org/wiki/International_Women%27s_Day → Trusted? False
+ Discarded: https://en.wikipedia.org/wiki/International_Women%27s_Day → Untrusted domain
+ Checking link: https://www.niaa.gov.au/sites/default/files/documents/2024-11/Government%20response%20to%20the%20Senate%20Inquiry%20into%20Missing%20and%20Murdered%20First%20Nations%20women%20and%20children.pdf → Trusted? False
+ Discarded: https://www.niaa.gov.au/sites/default/files/documents/2024-11/Government%20response%20to%20the%20Senate%20Inquiry%20into%20Missing%20and%20Murdered%20First%20Nations%20women%20and%20children.pdf → Untrusted domain
+ Checking link: https://journals.humankinetics.com/abstract/journals/ijsc/16/1/article-p53.xml → Trusted? False
+ Discarded: https://journals.humankinetics.com/abstract/journals/ijsc/16/1/article-p53.xml → Untrusted domain
+ Checking link: https://www.spc.int/digitallibrary/get/hpzyw → Trusted? False
+ Discarded: https://www.spc.int/digitallibrary/get/hpzyw → Untrusted domain
+ Checking link: https://www.sporthumanrights.org/scf-2019/speakers → Trusted? False
+ Discarded: https://www.sporthumanrights.org/scf-2019/speakers → Untrusted domain
+ Checking link: https://social.desa.un.org/sites/default/files/UNPFII2025/FINAL_CRP_Indigenous%20Women_Beijing%2030.pdf → Trusted? False
+ Discarded: https://social.desa.un.org/sites/default/files/UNPFII2025/FINAL_CRP_Indigenous%20Women_Beijing%2030.pdf → Untrusted domain
+ Checking link: https://budget.gov.au/content/myefo/download/myefo2024-25.pdf → Trusted? False
+ Discarded: https://budget.gov.au/content/myefo/download/myefo2024-25.pdf → Untrusted domain
+ Checking link: https://assets.nationbuilder.com/ldp/pages/7981/attachments/original/1737701301/A_Libertarian_Vision_2025.pdf?1737701301 → Trusted? False
+ Discarded: https://assets.nationbuilder.com/ldp/pages/7981/attachments/original/1737701301/A_Libertarian_Vision_2025.pdf?1737701301 → Untrusted domain
+ Checking link: https://au.linkedin.com/in/chelsearoffey → Trusted? False
+ Discarded: https://au.linkedin.com/in/chelsearoffey → Untrusted domain
+ Checking link: https://www.dfat.gov.au/sites/default/files/australia-samoa-development-partnership-plan-2024-2030.pdf → Trusted? False
+ Discarded: https://www.dfat.gov.au/sites/default/files/australia-samoa-development-partnership-plan-2024-2030.pdf → Untrusted domain
+ Checking link: https://milanocortina2026.olympics.com/s3fs-public/documents/2025-01/Sustainability%2C%20Impact%20and%20Legacy%20Report%202023.pdf?VersionId=eWXvIQPl_eeXhsJdRyk3xXNChk_VqGcI → Trusted? False
+ Discarded: https://milanocortina2026.olympics.com/s3fs-public/documents/2025-01/Sustainability%2C%20Impact%20and%20Legacy%20Report%202023.pdf?VersionId=eWXvIQPl_eeXhsJdRyk3xXNChk_VqGcI → Untrusted domain
+ Checking link: https://www.abc.net.au/ → Trusted? False
+ Discarded: https://www.abc.net.au/ → Untrusted domain
+ Checking link: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/women-aviation-industry-initiative → Trusted? False
+ Discarded: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/women-aviation-industry-initiative → Untrusted domain
+ Checking link: https://www.dfat.gov.au/sites/default/files/australia-in-brief-2021.docx → Trusted? False
+ Discarded: https://www.dfat.gov.au/sites/default/files/australia-in-brief-2021.docx → Untrusted domain
+ Checking link: https://www.taiwan.gov.tw/content5.php?p=27&c=42 → Trusted? False
+ Discarded: https://www.taiwan.gov.tw/content5.php?p=27&c=42 → Untrusted domain
+ Checking link: https://www.unicef.org/media/159956/file/FGM%20USG%20Report_2023.pdf.pdf → Trusted? False
+ Discarded: https://www.unicef.org/media/159956/file/FGM%20USG%20Report_2023.pdf.pdf → Untrusted domain
+ Checking link: https://unfccc.int/process-and-meetings/conferences/side-events-and-exhibits → Trusted? False
+ Discarded: https://unfccc.int/process-and-meetings/conferences/side-events-and-exhibits → Untrusted domain
+ Checking link: https://nationalplanning.gov.ng/wp-content/uploads/2021/12/NDP-2021-2025_AA_FINAL_PRINTING.pdf → Trusted? False
+ Discarded: https://nationalplanning.gov.ng/wp-content/uploads/2021/12/NDP-2021-2025_AA_FINAL_PRINTING.pdf → Untrusted domain
+ Checking link: https://staff.uq.edu.au/files/127760/Ally%20Action%20Plan%20Annual%20Report%202022.pdf → Trusted? False
+ Discarded: https://staff.uq.edu.au/files/127760/Ally%20Action%20Plan%20Annual%20Report%202022.pdf → Untrusted domain
+ Checking link: https://www.unwomen.org/sites/default/files/2024-09/b30_report_samoa_en.pdf → Trusted? False
+ Discarded: https://www.unwomen.org/sites/default/files/2024-09/b30_report_samoa_en.pdf → Untrusted domain
+ Checking link: https://www.itu.int/ → Trusted? False
+ Discarded: https://www.itu.int/ → Untrusted domain
+ Checking link: https://archive.budget.gov.au/2023-24/bp2/download/bp2_2023-24.pdf → Trusted? False
+ Discarded: https://archive.budget.gov.au/2023-24/bp2/download/bp2_2023-24.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/aparnabalakumar → Trusted? False
+ Discarded: https://au.linkedin.com/in/aparnabalakumar → Untrusted domain
+ Checking link: https://sustainabledevelopment.un.org/content/documents/26383VNR_2020_Seychelles_Report.pdf → Trusted? False
+ Discarded: https://sustainabledevelopment.un.org/content/documents/26383VNR_2020_Seychelles_Report.pdf → Untrusted domain
+
+ SBS (Special Broadcasting Service) Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2025 AU 
+ Checking link: https://unstats.un.org/sdgs/files/open-consultation-iaeg/Open_Consultation_Compilation-Members_and_Observers-20150915.pdf → Trusted? False
+ Discarded: https://unstats.un.org/sdgs/files/open-consultation-iaeg/Open_Consultation_Compilation-Members_and_Observers-20150915.pdf → Untrusted domain
+ Checking link: https://room.eu.com/article/the-promise-of-solar-energy-for-sustainable-development-and-space-exploration → Trusted? False
+ Discarded: https://room.eu.com/article/the-promise-of-solar-energy-for-sustainable-development-and-space-exploration → Untrusted domain
+ Checking link: https://digitallibrary.un.org/record/1324421/files/E_ESCWA_TDD_2017_1-EN.pdf → Trusted? False
+ Discarded: https://digitallibrary.un.org/record/1324421/files/E_ESCWA_TDD_2017_1-EN.pdf → Untrusted domain
+ Checking link: https://www.regulator.gov.ws/images/Sector_Plan/ICTSP-2022-2027_English-Version_Signed.pdf → Trusted? False
+ Discarded: https://www.regulator.gov.ws/images/Sector_Plan/ICTSP-2022-2027_English-Version_Signed.pdf → Untrusted domain
+ Checking link: https://www.imf.org/external/pubs/ft/scr/2013/cr13111.pdf → Trusted? False
+ Discarded: https://www.imf.org/external/pubs/ft/scr/2013/cr13111.pdf → Untrusted domain
+ Checking link: https://www.undrr.org/media/83687/download → Trusted? False
+ Discarded: https://www.undrr.org/media/83687/download → Untrusted domain
+ Checking link: https://www.undp.org/sites/g/files/zskgke326/files/2025-01/for_disclosure_cap-it_sesa_170125.pdf → Trusted? False
+ Discarded: https://www.undp.org/sites/g/files/zskgke326/files/2025-01/for_disclosure_cap-it_sesa_170125.pdf → Untrusted domain
+ Checking link: https://ustr.gov/sites/default/files/2023-03/2023%20NTE%20Report.pdf → Trusted? False
+ Discarded: https://ustr.gov/sites/default/files/2023-03/2023%20NTE%20Report.pdf → Untrusted domain
+ Checking link: https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2016-Survey/E-Government%20Survey%202016.pdf → Trusted? False
+ Discarded: https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2016-Survey/E-Government%20Survey%202016.pdf → Untrusted domain
+ Checking link: https://d30mzt1bxg5llt.cloudfront.net/public/uploads/sip-reports/Swinburne-Business-UN-PRME-Sharing-Information-on-Progress-2022.pdf → Trusted? False
+ Discarded: https://d30mzt1bxg5llt.cloudfront.net/public/uploads/sip-reports/Swinburne-Business-UN-PRME-Sharing-Information-on-Progress-2022.pdf → Untrusted domain
+ Checking link: https://www.transportation.gov/sites/dot.gov/files/2024-03/FAA_FY_2025_Budget_Budget_Request.pdf → Trusted? False
+ Discarded: https://www.transportation.gov/sites/dot.gov/files/2024-03/FAA_FY_2025_Budget_Budget_Request.pdf → Untrusted domain
+ Checking link: https://www.cisco.com/c/en/us/products/collateral/switches/business-350-series-managed-switches/datasheet-c78-744156.html → Trusted? False
+ Discarded: https://www.cisco.com/c/en/us/products/collateral/switches/business-350-series-managed-switches/datasheet-c78-744156.html → Untrusted domain
+ Checking link: https://enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_695_Serbia.pdf → Trusted? False
+ Discarded: https://enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_695_Serbia.pdf → Untrusted domain
+ Checking link: https://www.nyc.gov/assets/sustainability/downloads/pdf/publications/Carbon-Neutral-NYC.pdf → Trusted? False
+ Discarded: https://www.nyc.gov/assets/sustainability/downloads/pdf/publications/Carbon-Neutral-NYC.pdf → Untrusted domain
+ Checking link: https://www.ciena.com/products → Trusted? False
+ Discarded: https://www.ciena.com/products → Untrusted domain
+ Checking link: https://ustr.gov/sites/default/files/2024%20NTE%20Report_1.pdf → Trusted? False
+ Discarded: https://ustr.gov/sites/default/files/2024%20NTE%20Report_1.pdf → Untrusted domain
+ Checking link: https://www.unescwa.org/sites/default/files/pubs/pdf/innovation-policy-inclusive-sustainable-development-arab-region-english_0.pdf → Trusted? False
+ Discarded: https://www.unescwa.org/sites/default/files/pubs/pdf/innovation-policy-inclusive-sustainable-development-arab-region-english_0.pdf → Untrusted domain
+ Checking link: https://www.army.mil/e2/downloads/rv7/2020-2021_Weapon_Systems_Handbook.pdf → Trusted? False
+ Discarded: https://www.army.mil/e2/downloads/rv7/2020-2021_Weapon_Systems_Handbook.pdf → Untrusted domain
+ Checking link: https://humanrights.gov.au/sites/default/files/document/publication/ahrc_rightstech_2021_final_report_10.pdf → Trusted? False
+ Discarded: https://humanrights.gov.au/sites/default/files/document/publication/ahrc_rightstech_2021_final_report_10.pdf → Untrusted domain
+ Checking link: https://www.sbs.gov.ws/images/sbs-documents/social/Abstract/Abstract_2020.pdf → Trusted? False
+ Discarded: https://www.sbs.gov.ws/images/sbs-documents/social/Abstract/Abstract_2020.pdf → Untrusted domain
+ Checking link: http://council.nyc.gov/wp-content/uploads/2019/07/LetsGo_TransitReport_05.pdf → Trusted? False
+ Discarded: http://council.nyc.gov/wp-content/uploads/2019/07/LetsGo_TransitReport_05.pdf → Untrusted domain
+
+ SBS (Special Broadcasting Service) Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 12. Ensure sustainable consumption and production patterns 2025 AU 
+ Checking link: https://www.igi-global.com/book/global-food-safety-security-sustainable/323574 → Trusted? False
+ Discarded: https://www.igi-global.com/book/global-food-safety-security-sustainable/323574 → Untrusted domain
+ Checking link: https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2021-06/Digital_News_Report_2021_FINAL.pdf → Trusted? False
+ Discarded: https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2021-06/Digital_News_Report_2021_FINAL.pdf → Untrusted domain
+ Checking link: https://www.accc.gov.au/system/files/DPI%20-%20Issues%20Paper%20-%20Vers%20for%20Release%20-%2025%20F.._%20%28006%29.pdf → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/DPI%20-%20Issues%20Paper%20-%20Vers%20for%20Release%20-%2025%20F.._%20%28006%29.pdf → Untrusted domain
+ Checking link: https://nz.linkedin.com/in/marinioana → Trusted? False
+ Discarded: https://nz.linkedin.com/in/marinioana → Untrusted domain
+ Checking link: https://en.wikipedia.org/wiki/Generative_artificial_intelligence → Trusted? False
+ Discarded: https://en.wikipedia.org/wiki/Generative_artificial_intelligence → Untrusted domain
+ Checking link: https://uis.unesco.org/sites/default/files/documents/Draft_2025_UNESCO_FCS_Part_I.pdf → Trusted? False
+ Discarded: https://uis.unesco.org/sites/default/files/documents/Draft_2025_UNESCO_FCS_Part_I.pdf → Untrusted domain
+ Checking link: https://wfuna.org/wp-content/uploads/2024/12/SG-UN-Environment-Assembly-1.pdf → Trusted? False
+ Discarded: https://wfuna.org/wp-content/uploads/2024/12/SG-UN-Environment-Assembly-1.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/abigailthomas → Trusted? False
+ Discarded: https://au.linkedin.com/in/abigailthomas → Untrusted domain
+ Checking link: https://www.spectrumwomen.com/featured/what-is-wellness/ → Trusted? False
+ Discarded: https://www.spectrumwomen.com/featured/what-is-wellness/ → Untrusted domain
+ Checking link: https://www.arts.gov.au/sites/default/files/documents/national-culturalpolicy-8february2023.pdf → Trusted? False
+ Discarded: https://www.arts.gov.au/sites/default/files/documents/national-culturalpolicy-8february2023.pdf → Untrusted domain
+ Checking link: https://www.centralstate.edu/sites/default/files/2023-10/Central%20State%20University%20Course%20Catalog%202023-2025.pdf → Trusted? False
+ Discarded: https://www.centralstate.edu/sites/default/files/2023-10/Central%20State%20University%20Course%20Catalog%202023-2025.pdf → Untrusted domain
+ Checking link: https://www.navwar.navy.mil/Portals/93/Images/Documents/NAVWAR_LRAE_Report.xlsx → Trusted? False
+ Discarded: https://www.navwar.navy.mil/Portals/93/Images/Documents/NAVWAR_LRAE_Report.xlsx → Untrusted domain
+ Checking link: https://www.acma.gov.au/sites/default/files/2025-04/News%20media%20in%20Australia_2025%20report.pdf → Trusted? False
+ Discarded: https://www.acma.gov.au/sites/default/files/2025-04/News%20media%20in%20Australia_2025%20report.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/andrewsainsbury → Trusted? False
+ Discarded: https://au.linkedin.com/in/andrewsainsbury → Untrusted domain
+ Checking link: https://sg.linkedin.com/in/anitaneville → Trusted? False
+ Discarded: https://sg.linkedin.com/in/anitaneville → Untrusted domain
+ Checking link: https://www.stonybrook.edu/commcms/undergraduate-colleges/courses/courses/index.php → Trusted? False
+ Discarded: https://www.stonybrook.edu/commcms/undergraduate-colleges/courses/courses/index.php → Untrusted domain
+ Checking link: https://pmc.ncbi.nlm.nih.gov/articles/PMC9991626/ → Trusted? False
+ Discarded: https://pmc.ncbi.nlm.nih.gov/articles/PMC9991626/ → Untrusted domain
+ Checking link: https://openknowledge.fao.org/server/api/core/bitstreams/a3b328fe-07e5-4551-a349-588d2e758c29/content → Trusted? False
+ Discarded: https://openknowledge.fao.org/server/api/core/bitstreams/a3b328fe-07e5-4551-a349-588d2e758c29/content → Untrusted domain
+ Checking link: https://ustr.gov/sites/default/files/files/Press/Reports/2025NTE.pdf → Trusted? False
+ Discarded: https://ustr.gov/sites/default/files/files/Press/Reports/2025NTE.pdf → Untrusted domain
+ Checking link: https://www.mazda.com/content/dam/mazda/corporate/mazda-com/en/pdf/sustainability/report/2022e_all.pdf → Trusted? False
+ Discarded: https://www.mazda.com/content/dam/mazda/corporate/mazda-com/en/pdf/sustainability/report/2022e_all.pdf → Untrusted domain
+ Checking link: https://www.anao.gov.au/sites/default/files/2012_BPG_Public_Sector_Environmental_Management.pdf → Trusted? False
+ Discarded: https://www.anao.gov.au/sites/default/files/2012_BPG_Public_Sector_Environmental_Management.pdf → Untrusted domain
+ Checking link: https://www.sciencedirect.com/science/article/pii/S1359836817342944 → Trusted? False
+ Discarded: https://www.sciencedirect.com/science/article/pii/S1359836817342944 → Untrusted domain
+
+ SBS (Special Broadcasting Service) Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2025 AU 
+ Checking link: https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/finance/annual-report/pdf/ar2023/tir2023e_a4.pdf → Trusted? False
+ Discarded: https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/finance/annual-report/pdf/ar2023/tir2023e_a4.pdf → Untrusted domain
+ Checking link: https://flex.flinders.edu.au/file/d1aef78a-ec6f-41bd-ae02-204002ce5d5c/1/Dodd2022_MasterCopy.pdf → Trusted? False
+ Discarded: https://flex.flinders.edu.au/file/d1aef78a-ec6f-41bd-ae02-204002ce5d5c/1/Dodd2022_MasterCopy.pdf → Untrusted domain
+ Checking link: https://www.depts.ttu.edu/ceri/assets/pdf/database.pdf → Trusted? False
+ Discarded: https://www.depts.ttu.edu/ceri/assets/pdf/database.pdf → Untrusted domain
+ Checking link: https://www.usitc.gov/publications/332/otap2016.html → Trusted? False
+ Discarded: https://www.usitc.gov/publications/332/otap2016.html → Untrusted domain
+ Checking link: https://www.theloombafoundation.org/wp-content/uploads/2023/10/LF-World-Widows-Report-2015.pdf → Trusted? False
+ Discarded: https://www.theloombafoundation.org/wp-content/uploads/2023/10/LF-World-Widows-Report-2015.pdf → Untrusted domain
+ Checking link: https://www.sbs.com.au/aboutus/wp-content/uploads/2023/06/sbs_elevate_reconciliation_action_plan_june_2022_-_june_2026.pdf → Trusted? False
+ Discarded: https://www.sbs.com.au/aboutus/wp-content/uploads/2023/06/sbs_elevate_reconciliation_action_plan_june_2022_-_june_2026.pdf → Untrusted domain
+ Checking link: https://in.nau.edu/wp-content/uploads/sites/139/2023/11/NAU-Smart-Campus-Master-Plan_11202023_DLR-Group-Part-2.pdf → Trusted? False
+ Discarded: https://in.nau.edu/wp-content/uploads/sites/139/2023/11/NAU-Smart-Campus-Master-Plan_11202023_DLR-Group-Part-2.pdf → Untrusted domain
+ Checking link: https://unece.org/sites/default/files/2021-05/ECE.CEP_.188.Eng_.pdf → Trusted? False
+ Discarded: https://unece.org/sites/default/files/2021-05/ECE.CEP_.188.Eng_.pdf → Untrusted domain
+ Checking link: https://th.linkedin.com/in/galipeau → Trusted? False
+ Discarded: https://th.linkedin.com/in/galipeau → Untrusted domain
+ Checking link: http://students.aiu.edu/submissions/profiles/resources/onlineBook/V2b4p6_Africa%20and%20the%20Sustainable%20Development%20Goals-2020.pdf → Trusted? False
+ Discarded: http://students.aiu.edu/submissions/profiles/resources/onlineBook/V2b4p6_Africa%20and%20the%20Sustainable%20Development%20Goals-2020.pdf → Untrusted domain
+ Checking link: https://asiafoundation.org/wp-content/uploads/2017/07/Contemporary-Asian-Perspectives-on-South-South-Cooperation_wISBN.pdf → Trusted? False
+ Discarded: https://asiafoundation.org/wp-content/uploads/2017/07/Contemporary-Asian-Perspectives-on-South-South-Cooperation_wISBN.pdf → Untrusted domain
+ Checking link: https://documents1.worldbank.org/curated/en/503131655214448922/pdf/Samoa-Second-Recovery-and-Resilience-Development-Policy-Financing.pdf → Trusted? False
+ Discarded: https://documents1.worldbank.org/curated/en/503131655214448922/pdf/Samoa-Second-Recovery-and-Resilience-Development-Policy-Financing.pdf → Untrusted domain
+ Checking link: https://ux-design-awards.com/winners → Trusted? False
+ Discarded: https://ux-design-awards.com/winners → Untrusted domain
+ Checking link: https://knowledge4all.com/admin/Reports/FOK_2021En.pdf → Trusted? False
+ Discarded: https://knowledge4all.com/admin/Reports/FOK_2021En.pdf → Untrusted domain
+ Checking link: https://www.dinecollege.edu/wp-content/uploads/2025/01/22-23-DCCatalogMaster-v2_compressed.pdf → Trusted? False
+ Discarded: https://www.dinecollege.edu/wp-content/uploads/2025/01/22-23-DCCatalogMaster-v2_compressed.pdf → Untrusted domain
+ Checking link: https://www.grupoelektra.com.mx/Documents/Es/Downloads/Informe-de-Sustentabilidad-Grupo-Elektra-2019_EN.pdf → Trusted? False
+ Discarded: https://www.grupoelektra.com.mx/Documents/Es/Downloads/Informe-de-Sustentabilidad-Grupo-Elektra-2019_EN.pdf → Untrusted domain
+ Checking link: https://shareholdersandinvestors.bbva.com/wp-content/uploads/2021/06/Informe-Anual-Integrado-Peru-2020_ENG.pdf → Trusted? False
+ Discarded: https://shareholdersandinvestors.bbva.com/wp-content/uploads/2021/06/Informe-Anual-Integrado-Peru-2020_ENG.pdf → Untrusted domain
+
+ SBS (Special Broadcasting Service) Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 5. Achieve gender equality and empower all women and girls 2024 AU 
+ Checking link: https://www.frv.vic.gov.au/sites/default/files/2024-12/CGEPS-FRV-GEAP-Progress-Report_2023.pdf → Trusted? False
+ Discarded: https://www.frv.vic.gov.au/sites/default/files/2024-12/CGEPS-FRV-GEAP-Progress-Report_2023.pdf → Untrusted domain
+ Checking link: https://humanrights.gov.au/sites/default/files/document/publication/national_anti-racism_framework_scoping_report_2022_0.pdf → Trusted? False
+ Discarded: https://humanrights.gov.au/sites/default/files/document/publication/national_anti-racism_framework_scoping_report_2022_0.pdf → Untrusted domain
+ Checking link: https://www.pmc.gov.au/sites/default/files/foi-logs/foi-2024-256.pdf → Trusted? False
+ Discarded: https://www.pmc.gov.au/sites/default/files/foi-logs/foi-2024-256.pdf → Untrusted domain
+ Checking link: https://fr.linkedin.com/in/annette-young-050b55174 → Trusted? False
+ Discarded: https://fr.linkedin.com/in/annette-young-050b55174 → Untrusted domain
+ Checking link: https://et.linkedin.com/in/demeke-kebede-01388691 → Trusted? False
+ Discarded: https://et.linkedin.com/in/demeke-kebede-01388691 → Untrusted domain
+ Checking link: https://previewapi.transparency.gov.au/delivery/assets/80a82ed1-3e33-027b-b7e0-6493f97f18f8/7dab5108-2bba-48d8-86fa-3c27960877e3/2024-25%20Special%20Broadcasting%20Service%20Corporation%20Corporate%20Plan.pdf → Trusted? False
+ Discarded: https://previewapi.transparency.gov.au/delivery/assets/80a82ed1-3e33-027b-b7e0-6493f97f18f8/7dab5108-2bba-48d8-86fa-3c27960877e3/2024-25%20Special%20Broadcasting%20Service%20Corporation%20Corporate%20Plan.pdf → Untrusted domain
+ Checking link: https://www.pmc.gov.au/sites/default/files/foi-logs/foi-2023-319ic-documents-for-release.pdf → Trusted? False
+ Discarded: https://www.pmc.gov.au/sites/default/files/foi-logs/foi-2023-319ic-documents-for-release.pdf → Untrusted domain
+ Checking link: https://racismnoway.com.au/about-racism/timeline/1900s/ → Trusted? False
+ Discarded: https://racismnoway.com.au/about-racism/timeline/1900s/ → Untrusted domain
+ Checking link: https://au.linkedin.com/in/moones-mansoubi-3b182a87 → Trusted? False
+ Discarded: https://au.linkedin.com/in/moones-mansoubi-3b182a87 → Untrusted domain
+ Checking link: https://culturalatlas.sbs.com.au/somali-culture/somali-culture-core-concepts → Trusted? False
+ Discarded: https://culturalatlas.sbs.com.au/somali-culture/somali-culture-core-concepts → Untrusted domain
+ Checking link: https://staff.uq.edu.au/files/161009/Ally%20Action%20Plan%20Annual%20Report%20-%202023.pdf → Trusted? False
+ Discarded: https://staff.uq.edu.au/files/161009/Ally%20Action%20Plan%20Annual%20Report%20-%202023.pdf → Untrusted domain
+ Checking link: https://uk.linkedin.com/in/tim-swanston-41a991117 → Trusted? False
+ Discarded: https://uk.linkedin.com/in/tim-swanston-41a991117 → Untrusted domain
+ Checking link: https://www.sbs.com.au/aboutus/wp-content/uploads/2023/09/sbs_corporate_plan_2023.pdf → Trusted? False
+ Discarded: https://www.sbs.com.au/aboutus/wp-content/uploads/2023/09/sbs_corporate_plan_2023.pdf → Untrusted domain
+ Checking link: https://www.linkedin.com/posts/carolecooper1_it-is-so-good-to-see-the-work-being-done-activity-7274568877194252288-pJZ1 → Trusted? False
+ Discarded: https://www.linkedin.com/posts/carolecooper1_it-is-so-good-to-see-the-work-being-done-activity-7274568877194252288-pJZ1 → Untrusted domain
+ Checking link: https://www.accc.gov.au/system/files/ACCC+commissioned+report+-+The+impact+of+digital+platforms+on+news+and+journalistic+content,+Centre+for+Media+Transition+(2).pdf → Trusted? False
+ Discarded: https://www.accc.gov.au/system/files/ACCC+commissioned+report+-+The+impact+of+digital+platforms+on+news+and+journalistic+content,+Centre+for+Media+Transition+(2).pdf → Untrusted domain
+
+ SBS (Special Broadcasting Service) Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all 2024 AU 
+ Checking link: https://www.infrastructure.gov.au/about-us/corporate-reporting/2024-25-corporate-plan/2022-23-corporate-plan → Trusted? False
+ Discarded: https://www.infrastructure.gov.au/about-us/corporate-reporting/2024-25-corporate-plan/2022-23-corporate-plan → Untrusted domain
+ Checking link: https://www.sgi-network.org/docs/2024/country/SGI2024_Switzerland.pdf → Trusted? False
+ Discarded: https://www.sgi-network.org/docs/2024/country/SGI2024_Switzerland.pdf → Untrusted domain
+ Checking link: https://previewapi.transparency.gov.au/delivery/assets/80a82ed1-3e33-027b-b7e0-6493f97f18f8/93bd3a0b-65dd-4dfc-a0e1-cef23f101299/2024-25%20Department%20of%20Infrastructure%2C%20Transport%2C%20Regional%20Development%2C%20Communications%20and%20the%20Arts%20Corporate%20Plan.pdf → Trusted? False
+ Discarded: https://previewapi.transparency.gov.au/delivery/assets/80a82ed1-3e33-027b-b7e0-6493f97f18f8/93bd3a0b-65dd-4dfc-a0e1-cef23f101299/2024-25%20Department%20of%20Infrastructure%2C%20Transport%2C%20Regional%20Development%2C%20Communications%20and%20the%20Arts%20Corporate%20Plan.pdf → Untrusted domain
+ Checking link: https://www.unsw.edu.au/content/dam/pdfs/edi/2024-04-unsw-sdgs-2022-report.pdf → Trusted? False
+ Discarded: https://www.unsw.edu.au/content/dam/pdfs/edi/2024-04-unsw-sdgs-2022-report.pdf → Untrusted domain
+ Checking link: https://stillmed.olympics.com/media/Documents/International-Olympic-Committee/IOC-Marketing-And-Broadcasting/IOC-Marketing-Media-Guide-Paris-2024.pdf → Trusted? False
+ Discarded: https://stillmed.olympics.com/media/Documents/International-Olympic-Committee/IOC-Marketing-And-Broadcasting/IOC-Marketing-Media-Guide-Paris-2024.pdf → Untrusted domain
+ Checking link: https://www.alp.org.au/2021nationalplatform → Trusted? False
+ Discarded: https://www.alp.org.au/2021nationalplatform → Untrusted domain
+ Checking link: https://www.loreal-finance.com/system/files/2024-03/LOREAL_2023_Universal_Registration_Document_en.pdf → Trusted? False
+ Discarded: https://www.loreal-finance.com/system/files/2024-03/LOREAL_2023_Universal_Registration_Document_en.pdf → Untrusted domain
+ Checking link: https://www.spglobal.com/esg/csa/yearbook/2023/ranking/ → Trusted? False
+ Discarded: https://www.spglobal.com/esg/csa/yearbook/2023/ranking/ → Untrusted domain
+
+ SBS (Special Broadcasting Service) Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 12. Ensure sustainable consumption and production patterns 2024 AU 
+ Checking link: https://enlargement.ec.europa.eu/document/download/3c8c2d7f-bff7-44eb-b868-414730cc5902_en?filename=Serbia%20Report%202024.pdf → Trusted? False
+ Discarded: https://enlargement.ec.europa.eu/document/download/3c8c2d7f-bff7-44eb-b868-414730cc5902_en?filename=Serbia%20Report%202024.pdf → Untrusted domain
+ Checking link: https://www.screenaustralia.gov.au/getmedia/1a1e8676-bba9-4b47-a6d4-b9241857ae2b/SA-Annual-Report-2022-2023.pdf?ext=.pdf → Trusted? False
+ Discarded: https://www.screenaustralia.gov.au/getmedia/1a1e8676-bba9-4b47-a6d4-b9241857ae2b/SA-Annual-Report-2022-2023.pdf?ext=.pdf → Untrusted domain
+ Checking link: https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1501469/pdf → Trusted? False
+ Discarded: https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1501469/pdf → Untrusted domain
+ Checking link: https://documents.ucr.edu/registrar/UCR_Catalog_2023-24.pdf → Trusted? False
+ Discarded: https://documents.ucr.edu/registrar/UCR_Catalog_2023-24.pdf → Untrusted domain
+ Checking link: https://static.e-publishing.af.mil/production/1/afrc/publication/dafi21-101_afrcsup/dafi21-101_afrcsup.pdf → Trusted? False
+ Discarded: https://static.e-publishing.af.mil/production/1/afrc/publication/dafi21-101_afrcsup/dafi21-101_afrcsup.pdf → Untrusted domain
+ Checking link: https://www.nfsa.gov.au/sites/default/files/2024-10/24380-NFSA-Annual-Report-2023%E2%80%9324-Web.pdf → Trusted? False
+ Discarded: https://www.nfsa.gov.au/sites/default/files/2024-10/24380-NFSA-Annual-Report-2023%E2%80%9324-Web.pdf → Untrusted domain
+ Checking link: https://fecca.org.au/wp-content/uploads/2024/04/NewsMAP-Submission.pdf → Trusted? False
+ Discarded: https://fecca.org.au/wp-content/uploads/2024/04/NewsMAP-Submission.pdf → Untrusted domain
+ Checking link: https://www.acma.gov.au/sites/default/files/2023-12/A%20new%20framework%20for%20measuring%20media%20diversity%20in%20Australia.pdf → Trusted? False
+ Discarded: https://www.acma.gov.au/sites/default/files/2023-12/A%20new%20framework%20for%20measuring%20media%20diversity%20in%20Australia.pdf → Untrusted domain
+ Checking link: https://norden.diva-portal.org/smash/get/diva2:1760972/FULLTEXT01.pdf → Trusted? False
+ Discarded: https://norden.diva-portal.org/smash/get/diva2:1760972/FULLTEXT01.pdf → Untrusted domain
+ Checking link: https://au.linkedin.com/in/hossein-mokhtarzadeh → Trusted? False
+ Discarded: https://au.linkedin.com/in/hossein-mokhtarzadeh → Untrusted domain
+
+ SBS (Special Broadcasting Service) Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+[API] 200 :: SBS (Special Broadcasting Service) Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development 2024 AU 
+ Checking link: https://www.congress.gov/congressional-report/116th-congress/senate-report/48/1 → Trusted? False
+ Discarded: https://www.congress.gov/congressional-report/116th-congress/senate-report/48/1 → Untrusted domain
+ Checking link: https://rosap.ntl.bts.gov/view/dot/73154/dot_73154_DS1.pdf → Trusted? False
+ Discarded: https://rosap.ntl.bts.gov/view/dot/73154/dot_73154_DS1.pdf → Untrusted domain
+ Checking link: https://www.wto.org/english/news_e/sppl_e/sppl_e.htm → Trusted? False
+ Discarded: https://www.wto.org/english/news_e/sppl_e/sppl_e.htm → Untrusted domain
+ Checking link: https://search.proquest.com/openview/0e580f792765c37c94838e602f5fa050/1?pq-origsite=gscholar&cbl=18750&diss=y → Trusted? False
+ Discarded: https://search.proquest.com/openview/0e580f792765c37c94838e602f5fa050/1?pq-origsite=gscholar&cbl=18750&diss=y → Untrusted domain
+ Checking link: https://edc.org/wp-content/uploads/2024/10/EDC-Distance-Education-Teacher-Training.pdf → Trusted? False
+ Discarded: https://edc.org/wp-content/uploads/2024/10/EDC-Distance-Education-Teacher-Training.pdf → Untrusted domain
+ Checking link: https://grahamjosephhill.com/aust-nz-women/ → Trusted? False
+ Discarded: https://grahamjosephhill.com/aust-nz-women/ → Untrusted domain
+ Checking link: https://mofbe.gov.sc/wp-content/uploads/2024/08/Environmental-Impact-assessment-BIF.pdf → Trusted? False
+ Discarded: https://mofbe.gov.sc/wp-content/uploads/2024/08/Environmental-Impact-assessment-BIF.pdf → Untrusted domain
+ Checking link: https://www.global.toshiba/content/dam/toshiba/jp/sustainability/corporate/related-information/report-backnumber/2023/report23_en.pdf → Trusted? False
+ Discarded: https://www.global.toshiba/content/dam/toshiba/jp/sustainability/corporate/related-information/report-backnumber/2023/report23_en.pdf → Untrusted domain
+ Checking link: https://www.iaia.org/pdf/Energy-Transition/Complete%20Document.pdf → Trusted? False
+ Discarded: https://www.iaia.org/pdf/Energy-Transition/Complete%20Document.pdf → Untrusted domain
+ Checking link: https://orca.cardiff.ac.uk/id/eprint/173569/13/PhD%20thesis%20for%20submission%202024.pdf → Trusted? False
+ Discarded: https://orca.cardiff.ac.uk/id/eprint/173569/13/PhD%20thesis%20for%20submission%202024.pdf → Untrusted domain
+ Checking link: https://www.dinecollege.edu/wp-content/uploads/2024/11/24-25-DC-CatalogFINAL-5.17.24_compressed.pdf → Trusted? False
+ Discarded: https://www.dinecollege.edu/wp-content/uploads/2024/11/24-25-DC-CatalogFINAL-5.17.24_compressed.pdf → Untrusted domain
+
+ Saved 11 URLs to /Users/sharonkapina/Desktop/SWA_WORKING PROJECT/generated_urls_html.csv
+
+ Generating URLs for 50 orgs
+
+ Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+ Checking link: https://www.telstra.com.au/exchange/updating-our-climate-change-commitments → Trusted? True
+ Checking link: https://www.ca-cib.com/sites/default/files/2025-01/Credit%20Agricole%20RT%202024.pdf → Trusted? False
+ Discarded: https://www.ca-cib.com/sites/default/files/2025-01/Credit%20Agricole%20RT%202024.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/bigger-picture-2020-sustainability-report.pdf → Trusted? True
+ Checking link: https://www.philips.com/a-w/about/awards-and-recognition/the-reptrak-company.html → Trusted? False
+ Discarded: https://www.philips.com/a-w/about/awards-and-recognition/the-reptrak-company.html → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-g/telstra-annual-report-2023.pdf → Trusted? True
+ Checking link: https://infraco.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-Telstra-Bigger-Picture-Sustainability-Report-Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-In-focus-Sustaining-our-planet-Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-Sustainability-Report-2023-Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-g/telstra-annual-report-2024.pdf → Trusted? True
+ Checking link: https://www.worley.com/-/media/files/worley/investors/results-and-presentations/2024/wor-annual-report-2024.pdf → Trusted? False
+ Discarded: https://www.worley.com/-/media/files/worley/investors/results-and-presentations/2024/wor-annual-report-2024.pdf → Untrusted domain
+ Checking link: https://www.prnewswire.com/apac/news-releases/ericsson-and-telstra-pioneer-the-first-programmable-network-in-asia-pacific-302381006.html → Trusted? False
+ Discarded: https://www.prnewswire.com/apac/news-releases/ericsson-and-telstra-pioneer-the-first-programmable-network-in-asia-pacific-302381006.html → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-Telstra-Bigger-Picture-Sustainability-Report-Data-Pack-Remediated.xlsx → Trusted? True
+ Checking link: https://www.telstra.com.au/sustainability/environment → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-i/financial-results-for-the-full-year-ended-30-june-2024.pdf → Trusted? True
+ Checking link: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2023.pdf → Trusted? False
+ Discarded: https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2023.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-Sustainability-Report-Glossary-2023-Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-g/board-charter.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/telstras-bigger-picture-2021-sustainability-report-TCFD-appendix.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Climate-Change-report-2022-Accessible.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/telstras-bigger-picture-2021-sustainability-report.pdf → Trusted? True
+ Checking link: https://www.itu.int/en/ITU-D/Environment/PublishingImages/Pages/Greening-Digital-Companies-2023/Greening%20digital%20companies%202023%20report%20FINAL.pdf → Trusted? False
+ Discarded: https://www.itu.int/en/ITU-D/Environment/PublishingImages/Pages/Greening-Digital-Companies-2023/Greening%20digital%20companies%202023%20report%20FINAL.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Bigger-Picture-2022-Sustainability-Report_Accessible-Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra-Value-Chain_End-of-life%20Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/business-enterprise/news-research/articles → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-g/telstra-2024-corporate-governance-statement-appendix-4G.pdf → Trusted? True
+ Checking link: https://www.kwm.com/au/en/about-us/media-center/KWM-advises-Telstra-on-power-purchase-agreement-with-Munna-Creek-Solar-Farm.html → Trusted? False
+ Discarded: https://www.kwm.com/au/en/about-us/media-center/KWM-advises-Telstra-on-power-purchase-agreement-with-Munna-Creek-Solar-Farm.html → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-Telstra-Modern-Slavery-Act-Statement-Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/Telstra_In-focus_SDGs_2023_Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/sustainability → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/telstra-bigger-picture-sustainability-report-assurance-statement-2023.pdf → Trusted? True
+
+ Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+
+ Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+
+ Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2025 site:Telstra.com.au OR filetype:html OR filetype:pdf
+
+ Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+ Checking link: https://infraco.telstra.com.au/sustainability → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-Telstra-Bigger-Picture-Sustainability-Report-Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/aboutus/investors/annual-general-meeting → Trusted? True
+ Checking link: https://www.telstra.com.au/business-enterprise/news-research/articles/data-is-key-to-executing-your-esg-strategy → Trusted? True
+ Checking link: https://www.telstrasuper.com.au/-/media/telstrasuper/files/governance/governance-and-disclosure/environmental-social-and-governance-policy.ashx?rev=4072f27f4c194a129927ea24ffd68d2c&hash=4F5F241E8392FA759431FB9463BBBCB1 → Trusted? True
+ Checking link: https://acsi.org.au/wp-content/uploads/2024/07/Promises-Pathways-Performance-Climate-reporting-in-the-ASX200.Jul24final.pdf → Trusted? False
+ Discarded: https://acsi.org.au/wp-content/uploads/2024/07/Promises-Pathways-Performance-Climate-reporting-in-the-ASX200.Jul24final.pdf → Untrusted domain
+ Checking link: https://www.telstrasuper.com.au/-/media/telstrasuper/files/governance/annual-reports/telstrasuper-annual-financial-report-30-june-2024.ashx?rev=e4a24a9fb84e478b8639e55dca7f5484&hash=379BA9B5D0D03B890645D48CB1AE0AEF → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-g/telstra-2023-corporate-governance-statement-appendix-4G.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/aboutus/our-company/leadership-team → Trusted? True
+ Checking link: https://www.bhp.com/-/media/documents/investors/annual-reports/2024/240827_bhpannualreport2024.pdf → Trusted? False
+ Discarded: https://www.bhp.com/-/media/documents/investors/annual-reports/2024/240827_bhpannualreport2024.pdf → Untrusted domain
+ Checking link: https://www.infosys.com/sustainability/documents/infosys-esg-report-2023-24.pdf → Trusted? False
+ Discarded: https://www.infosys.com/sustainability/documents/infosys-esg-report-2023-24.pdf → Untrusted domain
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-Telstra-Bigger-Picture-Sustainability-Report-Glossary-Remediated.pdf → Trusted? True
+ Checking link: https://www.telstra.com.au/sustainability/report → Trusted? True
+ Checking link: https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2024-In-focus-Sustainability-at-Telstra-Remediated.pdf → Trusted? True
+
+ Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+
+ Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+
+ Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+[API] 200 :: Telstra sustainability ESG report 2024 site:Telstra.com.au OR filetype:html OR filetype:pdf
+
+ Saved 34 URLs to /Users/sharonkapina/Desktop/SWA_WORKING PROJECT/generated_urls_html.csv
