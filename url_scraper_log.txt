@@ -2615,3 +2615,84 @@
 [API] 200 :: Optus sustainability ESG report 2024 site:Optus.com.au OR filetype:html OR filetype:pdf
 
  Saved 44 URLs to /Users/sharonkapina/Desktop/SWA_WORKING PROJECT/generated_urls.csv
+
+ Generating URLs for 50 orgs
+
+ Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+
+ Generating URLs for 50 orgs
+
+ Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+ Checking link: https://www.mckinsey.de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-06-14%20mgi%20genai%20report%2023/the-economic-potential-of-generative-ai-the-next-productivity-frontier-vf.pdf → Trusted? True
+ Checking link: https://www.deloitte.com/global/en/about/press-room/deloitte-globals-2025-predictions-report.html → Trusted? True
+ Checking link: https://www.cio.com/article/3478772/6-hard-truths-of-generative-ai-in-the-enterprise.html → Trusted? True
+ Checking link: https://blog.workday.com/en-us/government-industry-outlook-3-ways-technology-will-enable-mission.html → Trusted? True
+ Checking link: https://www.mckinsey.com/~/media/mckinsey/industries/technology%20media%20and%20telecommunications/high%20tech/our%20insights/beyond%20the%20hype%20capturing%20the%20potential%20of%20ai%20and%20gen%20ai%20in%20tmt/beyond-the-hype-capturing-the-potential-of-ai-and-gen-ai-in-tmt.pdf → Trusted? True
+ Checking link: https://www.csiro.au/-/media/D61/Responsible-AI/Alphinity/Responsible-AI-and-ESG.pdf → Trusted? True
+ Checking link: https://www.unepfi.org/wordpress/wp-content/uploads/2024/04/Climate-Risk-Landscape-2024.pdf → Trusted? True
+ Checking link: https://apps.legislature.ky.gov/lrc/publications/ResearchReports/RR491.pdf → Trusted? True
+ Checking link: https://www.deloitte.com/cz-sk/en/Industries/technology/about.html → Trusted? True
+ Checking link: https://www.mckinsey.de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2024/2024%20-%2005%20-%2023%20mgi%20genai%20future%20of%20work/mgi%20report_a-new-future-of-work-the-race-to-deploy-ai.pdf → Trusted? True
+ Checking link: https://www.williamblair.com/-/media/downloads/eqr/2025/williamblair_navigating-the-boom-confronting-generative-ais-most-pressing-questions.pdf → Trusted? True
+ Checking link: https://www.dbresearch.com/PROD/RPS_EN-PROD/PROD0000000000528853/AI_in_action%3A_how_first_movers_are_using_ChatGPT.PDF?undefined&realload=/c2XGyY0aye0yfLEvQr4~ctmCQ9vwvlN0e9P6ojuahnT4p2ACEKUlUc6Gj7qImyp → Trusted? True
+ Checking link: https://assets.kpmg.com/content/dam/kpmg/za/pdf/2023/6.%20Generative%20artificial%20intelligence%20(AI)%20in%20the%20insurance%20sector-%20a%20revolution%20in%20the%20making.pdf → Trusted? True
+ Checking link: https://reports.weforum.org/docs/WEF_Embracing_the_Quantum_Economy_2024.pdf → Trusted? True
+ Checking link: https://www.cascadiacapital.com/wp-content/uploads/2021/09/Future-of-Autonomy-Key-Trends-Predictions-from-Cascadia-Capital.pdf → Trusted? True
+ Checking link: https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html → Trusted? True
+ Checking link: https://www.xceedance.com/wp-content/uploads/2023/08/Generative-AI-in-Insurance-A-Game-Changer.pdf → Trusted? True
+ Checking link: https://www2.deloitte.com/us/en/pages/consulting/articles/gen-ai-use-cases.html → Trusted? True
+ Checking link: https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1221&context=bus_admin_diss → Trusted? True
+ Checking link: https://aclanthology.org/2025.coling-main.53.pdf → Trusted? True
+ Checking link: https://www2.deloitte.com/content/dam/Deloitte/ca/Documents/deloitte-analytics/ca-en-omnia-ai-marketing-pov-fin-jun24-aoda.pdf → Trusted? True
+ Checking link: http://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20top%20trends%20in%20tech%202023/mckinsey-technology-trends-outlook-2023-v5.pdf → Trusted? True
+ Checking link: https://www.iiconsortium.org/wp-content/uploads/sites/2/2024/01/5-JOI_20240109_Driving_Healthcare_Transformation.pdf → Trusted? True
+ Checking link: https://business.columbia.edu/sites/default/files-efs/imce-uploads/Lang/CVF/Meet%20The%20Fellows%2023-24_2_22_24_V2.pdf → Trusted? True
+ Checking link: https://www.jpmorgan.com/content/dam/jpmorgan/documents/wealth-management/outlook-2025-building-on-strength.pdf → Trusted? True
+ Checking link: https://www.isda.org/a/PbwgE/GenAI-in-the-Derivatives-Market-A-Future-Perspective.pdf → Trusted? True
+ Checking link: https://www.stifel.com/newsletters/investmentbanking/bal/marketing/healthcare/biopharma_timopler/stifel_howwillaichangethepharmaindustry_04.15.2024.pdf → Trusted? True
+ Checking link: https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html → Trusted? True
+ Checking link: https://www.ajg.com/gallagherre/-/media/files/gallagher/gallagherre/news-and-insights/2024/november/global-insurtech-report-q3-2024.pdf → Trusted? True
+ Checking link: https://global.fujitsu/-/media/Project/Fujitsu/Fujitsu-HQ/technology/key-technologies/news/ta-ai-agent-innovation-20250328/ta-ai-agent-innovation-20250328-en.pdf?rev=297180d8c5fc406281ea3171a8a19e0b&hash=FB7F836C753E12B92DCA076E1F007F6C → Trusted? True
+
+ Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+
+ Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+
+ Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+
+ Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+
+ Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+
+ Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+
+ Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+[API] 200 :: Business use cases of LLMs in healthcare mckinsey deloitte filetype:html OR filetype:pdf
+
+ Saved 30 URLs to /Users/sharonkapina/Desktop/SWA_WORKING PROJECT/llms_research.csv
