@@ -1,0 +1,39 @@
+```json
+{
+    "country": "Australia",
+    "region": "Australia",
+    "sic_code": "All",
+    "data": [
+        {
+            "organisation_name": "Purple House"
+        },
+        {
+            "organisation_name": "Sacred Heart Mission"
+        },
+        {
+            "organisation_name": "Aboriginal Medical Service Cooperative Limited (AMSRedfern)"
+        },
+        {
+            "organisation_name": "Bupa Health Foundation (bupa)"
+        },
+        {
+            "organisation_name": "Australian Healthcare and Hospitals Association (ahha)"
+        },
+        {
+            "organisation_name": "Healthscope"
+        },
+        {
+            "organisation_name": "Private Healthcare Australia (PHA)"
+        },
+        {
+            "organisation_name": "Australian Health Practitioner Regulation Agency (AHPRA)"
+        },
+        {
+            "organisation_name": "National Disability Insurance Agency (NDIA)"
+        },
+        {
+            "organisation_name": "St John Ambulance Australia (stjohn)"
+        }
+    ]
+}
+``` 

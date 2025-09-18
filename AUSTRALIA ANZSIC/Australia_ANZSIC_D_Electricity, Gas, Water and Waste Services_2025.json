@@ -1,0 +1,39 @@
+```json
+{
+    "country": "Australia",
+    "region": "Australia",
+    "sic_code": "All",
+    "data": [
+        {
+            "organisation_name": "Veolia Australia and New Zealand (veolia)"
+        },
+        {
+            "organisation_name": "Cleanaway"
+        },
+        {
+            "organisation_name": "The Environmental Group Ltd (environmental)"
+        },
+        {
+            "organisation_name": "Yarra Valley Water(yvw)"
+        },
+        {
+            "organisation_name": "GHD Group (ghd)"
+        },
+        {
+            "organisation_name": "ActewAGL (iconwater)"
+        },
+        {
+            "organisation_name": "Western Treatment Plant (Melbourne Water)"
+        },
+        {
+            "organisation_name": "SA Water"
+        },
+        {
+            "organisation_name": "Suez Australia (Suez)"
+        },
+        {
+            "organisation_name": "AGL Energy (agl)"
+        }
+    ]
+}
+``` 
